@@ -1,0 +1,30 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools">
+
+  <!-- Legacy Bluetooth permissions (Android <= 11). Granted at install time. -->
+  <uses-permission android:name="android.permission.BLUETOOTH" android:maxSdkVersion="30" />
+  <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" android:maxSdkVersion="30" />
+
+  <!-- Android 12+ runtime Bluetooth permissions. -->
+  <uses-permission android:name="android.permission.BLUETOOTH_SCAN" tools:targetApi="31" />
+  <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" tools:targetApi="31" />
+  <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" tools:targetApi="31" />
+
+  <!-- Location is required for BLE scan results on Android <= 11 (and without neverForLocation on 12+). -->
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+  <!-- Foreground service that keeps mesh links alive in the background. -->
+  <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+  <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE" />
+  <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+  <uses-feature android:name="android.hardware.bluetooth_le" android:required="true" />
+
+  <application>
+    <service
+      android:name="expo.modules.meshperipheral.MeshForegroundService"
+      android:exported="false"
+      android:foregroundServiceType="connectedDevice" />
+  </application>
+</manifest>
