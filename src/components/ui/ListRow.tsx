@@ -47,6 +47,7 @@ export function IconTile({ icon, size = 40, shape = 'tile', tone = 'primary' }: 
 
 interface ListRowProps {
   title: string;
+  titleLines?: number; // default 2
   description?: string;
   descriptionLines?: number; // default 2
   descriptionMono?: boolean;
@@ -73,6 +74,7 @@ const isGlyph = (t: unknown): t is keyof typeof TRAILING => t === 'chevron' || t
  */
 export function ListRow({
   title,
+  titleLines = 2,
   description,
   descriptionLines = 2,
   descriptionMono,
@@ -91,7 +93,11 @@ export function ListRow({
     <>
       {leading ?? (icon ? <IconTile icon={icon} tone={danger ? 'danger' : 'primary'} /> : null)}
       <View style={styles.body}>
-        <Text variant="titleMedium" numberOfLines={2} style={{ color: danger ? colors.errorText : colors.onSurface }}>
+        <Text
+          variant="titleMedium"
+          numberOfLines={titleLines}
+          style={{ color: danger ? colors.errorText : colors.onSurface }}
+        >
           {title}
         </Text>
         {description !== undefined && (

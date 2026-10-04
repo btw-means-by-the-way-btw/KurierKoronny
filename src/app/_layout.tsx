@@ -20,7 +20,8 @@ void SplashScreen.preventAutoHideAsync();
  *   keys / database unreadable → recovery screen (nothing else is reachable)
  *   permissions not granted    → /permissions   (system dialogs; cannot continue without them)
  *   no nick yet                → /onboarding
- *   otherwise                  → tabs (chats / network / settings) + chat and security screens
+ *   otherwise                  → tabs (chats / network / information / settings) + chat, Kurier,
+ *                                source and security screens
  */
 export default function RootLayout() {
   const scheme = useColorScheme();
@@ -91,6 +92,10 @@ export default function RootLayout() {
             <Stack.Screen name="my-key" options={{ title: 'Mój klucz' }} />
             <Stack.Screen name="verify/[id]" options={{ title: 'Weryfikacja klucza' }} />
             <Stack.Screen name="install-cert" options={{ title: 'Certyfikat urzędowy' }} />
+            <Stack.Screen name="kurier" options={{ title: 'Kurier' }} />
+            {/* Both set their own title: the group's name and the document's. */}
+            <Stack.Screen name="sources/[group]" options={{ title: 'Źródła' }} />
+            <Stack.Screen name="source/[id]" options={{ title: 'Źródło' }} />
           </Stack.Protected>
         </Stack>
       )}

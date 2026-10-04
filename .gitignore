@@ -47,3 +47,6 @@ modules/*/android/build/
 /ca/
 
 pres.html
+
+# knowledge base: downloaded originals (rebuild with `node scripts/kb-build.js fetch`)
+/kb/raw/

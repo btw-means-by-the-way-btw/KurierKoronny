@@ -257,6 +257,24 @@ components:
     typography: "{typography.label-md}"
     rounded: "{rounded.full}"
     height: 24px
+  answer-block:
+    backgroundColor: "{colors.surface}"
+    textColor: "{colors.on-surface}"
+    typography: "{typography.body-lg}"
+    rounded: "{rounded.lg}"
+    padding: 16px
+  citation-marker:
+    textColor: "{colors.primary}"
+    typography: "{typography.title-md}"
+  reader-passage:
+    backgroundColor: "{colors.surface}"
+    textColor: "{colors.on-surface}"
+    typography: "{typography.body-lg}"
+    rounded: "{rounded.lg}"
+    padding: 16px
+  reader-passage-cited:
+    backgroundColor: "{colors.primary-container}"
+    textColor: "{colors.on-primary-container}"
 ---
 
 ## Overview
@@ -274,6 +292,10 @@ rzut oka.
 
 To jest stylistyka _inspirowana_ mObywatelem, nie jego kopia: nie używamy godła,
 nazwy ani logotypów mObywatela i nie sugerujemy, że to aplikacja rządowa.
+
+Zakładka Informacje to jedyne miejsce, które korzysta z internetu: pytanie do
+Kuriera idzie do zewnętrznego modelu językowego. Źródła, z których Kurier
+odpowiada, są zapisane w aplikacji i czyta się je bez sieci.
 
 ## Colors
 
@@ -427,7 +449,8 @@ Ruch jest krótki i bez sprężynowania. Naciśnięcie: przyciemnienie + skala 0
 ripple. Przejście między ekranami: wsunięcie z prawej. Arkusz dolny: 220 ms.
 Wskaźnik segmentu: 160 ms. Animujemy tylko przesunięcie, skalę i
 przezroczystość; przy włączonym ograniczeniu ruchu zostaje samo przyciemnienie.
-Baner alertu zwija się bez animacji.
+Baner alertu zwija się bez animacji. Kropka w linii postępu Kuriera pulsuje samą
+przezroczystością (800 ms w jedną stronę); przy ograniczeniu ruchu stoi.
 
 ## Components
 
@@ -531,6 +554,38 @@ Baner alertu zwija się bez animacji.
 - **Empty state:** wyśrodkowane koło 64px (primary-container albo
   surface-variant) z ikoną konturową i zdanie body-lg w on-surface-variant.
   Ikona w kole to nie ilustracja.
+- **Answer block:** odpowiedź Kuriera w rozmowie. Pytanie to dymek wysłany;
+  odpowiedź to płaski biały blok (surface, lg) na szerokość listy, treść
+  body-lg. To automatyczne streszczenie, a nie wiadomość od osoby ani urzędu:
+  bez ogonka, plakietki zaufania, ikony urzędu, „PILNE", obramowania i ikon
+  „AI". Pod treścią, po linii outline-variant, etykieta „Źródła" (label-md) i
+  wiersze źródeł, na końcu „Szukano: …" (body-md, on-surface-variant). Gdy
+  źródła nie odpowiadają na pytanie: zdanie „Nie znalazłem odpowiedzi w
+  źródłach." i ewentualnie „Najbliższe fragmenty". Błąd to Notice w tonie błędu.
+- **Citation marker:** „[n]" w treści odpowiedzi, title-md w primary, sklejony
+  z poprzedzającym słowem; dotknięcie otwiera cytowany fragment. Jest mniejszy
+  niż cel dotykowy, dlatego każdy znacznik ma odpowiednik w wierszu źródła.
+- **Source row:** zwykły wiersz listy (min. 64px) w bloku odpowiedzi: zamiast
+  kafelka „[n]" w title-md i primary, tytuł dokumentu (do 3 linii), opis
+  „rozdział · strona · wydawca", szewron. Wiersze najbliższych fragmentów nie
+  mają numeru. W bibliotece źródeł działy leżą we wspólnej karcie, a dokument
+  to osobna biała karta (md): tytuł do 4 linii, opis „wydawca · rok · PDF"
+  albo „… · strona internetowa".
+- **Reader passage:** fragment dokumentu to biała karta (lg, 16px) z tekstem
+  body-lg, który da się zaznaczyć; odstęp 8px, przed nowym rozdziałem lub
+  stroną 24px. Tytuł rozdziału (title-md) i „Strona N" (label-md,
+  on-surface-variant) stoją nad kartą, na tle ekranu. Cytowany fragment ma tło
+  primary-container, tekst on-primary-container i podpis „Cytowany fragment"
+  (label-md) — sam kolor nie wystarcza. „Otwórz oryginał" to przycisk tonalny
+  w dolnym pasie akcji.
+- **Progress line:** to, co Kurier właśnie robi: jedna linia body-md w
+  on-surface-variant („Przeszukuję źródła…") z kropką 8px w primary. Bez
+  spinnera.
+- **Disclaimer line:** stałe, nieprzewijane zdanie body-md w
+  on-surface-variant, wyśrodkowane: pod polem pytania („Automatyczne
+  streszczenie źródeł, nie komunikat urzędowy. W nagłym zagrożeniu dzwoń pod
+  112.") i pod główną akcją zakładki Informacje, która leży w pasie akcji nad
+  paskiem zakładek („W nagłym zagrożeniu życia dzwoń pod 112.").
 - **Key grid:** odcisk klucza w siatce 4×2 grup krojem monospace 16px tam,
   gdzie porównuje się go na głos (Mój klucz, Weryfikacja klucza); 14px w
   miejscach informacyjnych (powitanie, wiersz ustawień, ostrzeżenie) i dla
@@ -558,6 +613,9 @@ Baner alertu zwija się bez animacji.
   aplikację rządową. Oznaczenie „Konto urzędowe" i styl „PILNE" przysługują
   wyłącznie nadawcom z ważnym certyfikatem — nigdy na podstawie nicku, i bez
   godła ani barw państwowych.
+- Nie nadawaj odpowiedzi Kuriera wyglądu wiadomości od osoby ani od urzędu:
+  żadnej plakietki zaufania, ikony urzędu, „PILNE", obramowania w kolorze błędu
+  ani ikon „AI".
 - Nie pokazuj stanu zabezpieczeń „na sztywno": ekran Bezpieczeństwo ma
   odzwierciedlać faktyczny stan urządzenia, razem z tym, czego aplikacja nie
   chroni.

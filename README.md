@@ -16,6 +16,10 @@ publiczne, podpisane komunikaty, które może nadać tylko urządzenie z certyfi
 użytkownik nie może rozgłaszać treści do całej sieci. Model bezpieczeństwa opisuje sekcja
 [Bezpieczeństwo](#bezpieczeństwo).
 
+Osobno działa **Kurier** (zakładka Informacje): odpowiada na pytania o sytuacje kryzysowe wyłącznie na
+podstawie oficjalnych źródeł dołączonych do aplikacji i pokazuje, skąd pochodzi każda informacja. To jedyna
+część aplikacji, która korzysta z internetu – patrz [Kurier](#kurier--pytania-do-oficjalnych-źródeł).
+
 ---
 
 ## Budowanie
@@ -66,6 +70,7 @@ sprawdzane ponownie automatycznie.
 | `BLUETOOTH`, `BLUETOOTH_ADMIN` | przy instalacji | ≤ 11 | Bluetooth na starszych systemach (`maxSdkVersion=30`) |
 | `FOREGROUND_SERVICE` | przy instalacji | wszystkie | usługa w tle |
 | `FOREGROUND_SERVICE_CONNECTED_DEVICE` | przy instalacji | 14+ | typ usługi `connectedDevice` |
+| `INTERNET` | przy instalacji | wszystkie | wyłącznie pytania do Kuriera (dodaje je szablon Expo) |
 
 Uprawnienia „przy instalacji” to *normal permissions*. System nadaje je automatycznie
 i nie ma dla nich dialogu, więc ekran uprawnień pokazuje je tylko informacyjnie. Deklaracje są
@@ -79,10 +84,11 @@ w `modules/mesh-peripheral/android/src/main/AndroidManifest.xml` i w `app.json`.
 src/
   app/                    Expo Router: trasy i guardy (cienkie pliki re-eksportujące ekrany)
   screens/                Permissions, Onboarding, Conversations, Network, Chat, Settings,
-                          Alerts, ComposeAlert, Security, MyKey, VerifyContact, InstallCert, Recovery
+                          Alerts, ComposeAlert, Security, MyKey, VerifyContact, InstallCert, Recovery,
+                          RAG (zakładka Informacje), Kurier, Sources, Source
   components/             AlertBanner, TrustBadge, QrScanner, NetworkStatusBar, MessageBubble…
   hooks/                  useMeshLifecycle, useNetworkStatus
-  store/                  Zustand: identity, contacts, alerts, permissions, mesh, chat (+ typy domenowe)
+  store/                  Zustand: identity, contacts, alerts, permissions, mesh, chat, rag (+ typy domenowe)
   services/
     ble/                  LinkManager (fizyczne łącza), PeripheralRole, fragmenter, stałe
     crypto/               keys + identity (klucze urządzenia), box + e2e (szyfrowanie 1:1),
@@ -90,11 +96,15 @@ src/
     mesh/                 packet (format i podpis), handshake (HELLO), MeshRouter (routing),
                           alertPolicy (reguły alertów), SeenCache, MeshService (czat i alerty)
     permissions/          dialogi systemowe, „nie pytaj ponownie”, ustawienia
+    rag/                  Kurier: kb (baza źródeł), search (wyszukiwanie na telefonie), llm (proxy modelu),
+                          kurier (plan → wyszukiwanie → odpowiedź z cytatami)
     security/             blokada ekranu i potwierdzenie biometrią
     storage/              SQLCipher (migracje, repozytoria czatu, kontaktów, alertów), kv-store (flagi)
   utils/                  base64/UTF-8/UUID, losowość, nicki, token bucket, emitter, logger
 modules/mesh-peripheral/  Kotlin: MeshGattServer, MeshForegroundService, MeshPeripheralModule
 scripts/authority-ca.js   offline'owe narzędzie wydające certyfikaty kont urzędowych
+scripts/kb-build.js       pobiera oficjalne źródła i buduje z nich bazę wiedzy Kuriera
+kb/sources.json           manifest źródeł bazy wiedzy (adres, wydawca, licencja, data i suma kontrolna)
 __tests__/                testy protokołu (Jest)
 ```
 
@@ -249,6 +259,74 @@ Typy pakietów:
 
 ---
 
+## Kurier – pytania do oficjalnych źródeł
+
+Zakładka **Informacje** odpowiada na pytania o przygotowanie do sytuacji kryzysowych i zachowanie w ich
+trakcie. Odpowiedź powstaje wyłącznie z bazy oficjalnych źródeł dołączonej do aplikacji (Poradnik
+bezpieczeństwa, RCB, MSWiA, PSP, GIS, PAA, CERT Polska i inne: 252 dokumenty, ok. 4300 fragmentów), a każde
+zdanie ma odnośnik do fragmentu, z którego pochodzi. Odnośnik otwiera czytnik na cytowanym fragmencie, więc
+da się przeczytać także tekst wokół. Źródła można też przeglądać samodzielnie – to działa bez internetu.
+
+**Kurier jest jedyną częścią aplikacji, która używa internetu.** Pytanie i znalezione fragmenty źródeł
+przechodzą przez nasze proxy do zewnętrznego modelu językowego; rozmowy w czacie tym kanałem nie płyną.
+
+### Jak powstaje odpowiedź
+
+1. **Plan** – model dostaje pytanie i spis dokumentów; zwraca frazy do wyszukania i numery dokumentów,
+   w których spodziewa się odpowiedzi. Na pytanie nie odpowiada. Pytanie spoza tematu kończy się tutaj.
+2. **Wyszukiwanie** – na telefonie (`search.ts`): BM25 po fragmentach, słowa sprowadzone do uproszczonych
+   rdzeni bez polskich znaków, tytuł i nagłówek liczone podwójnie. Dokumenty wskazane w planie dają swój
+   najlepszy fragment, resztę uzupełnia ranking; nowsze i ważniejsze źródła mają pierwszeństwo.
+3. **Odpowiedź** – model pisze z ośmiu fragmentów i każde zdanie oznacza `[n]`. Może raz poprosić
+   o wyszukanie innych fraz albo odpowiedzieć, że źródła nie zawierają odpowiedzi.
+4. **Kontrola** – aplikacja usuwa odnośniki do fragmentów, których nie podała, i nie pokazuje odpowiedzi,
+   która nie wskazuje żadnego. Wtedy wyświetla „Nie znalazłem odpowiedzi w źródłach” i najbliższe fragmenty.
+
+Jedno pytanie to dwa zapytania do proxy (trzy, gdy model poprosi o ponowne wyszukanie), zwykle 2–4 s.
+Proxy przyjmuje `POST { key, query }` i zwraca `{ response }`; ma własne limity (na adres IP i dobowy).
+
+### Baza źródeł
+
+- `kb/sources.json` – ręcznie edytowany manifest: adres, wydawca, grupa, licencja, priorytet. `"include": false`
+  wyłącza źródło, a `"excluded"` mówi dlaczego (duplikat, wersja obcojęzyczna, PDF bez tekstu, treść nieaktualna).
+- `node scripts/kb-build.js fetch` – pobiera oryginały do `kb/raw/` (poza gitem, ok. 360 MB) i zapisuje
+  w manifeście datę, rozmiar i sumę SHA-256.
+- `node scripts/kb-build.js build` – wyciąga tekst (HTML: `node-html-parser`; PDF: `pdftotext` z pakietu
+  poppler-utils), tnie go na fragmenty i zapisuje `src/services/rag/kb/kb.json` (ok. 3 MB, w repozytorium).
+  Źródła, które nie przechodzą kontroli tekstu (za mało treści, zgubione polskie znaki), są wypisywane i pomijane.
+
+Fragmenty jednego dokumentu nie nachodzą na siebie – czytnik składa z nich cały tekst. Z PDF-ów zostaje numer
+strony, ze stron internetowych nagłówek sekcji; opisy alternatywne infografik Poradnika bezpieczeństwa
+są włączone jako tekst.
+
+**Licencje.** Teksty z gov.pl są na licencji CC BY-SA 4.0 (grafiki, nagrania i filmy na CC BY-NC-ND 4.0 –
+dlatego baza zawiera wyłącznie tekst), akty prawne nie podlegają ochronie. Część źródeł nie deklaruje
+licencji albo zastrzega prawa (m.in. ABW, PSE, IMGW-PIB, NASK, pacjent.gov.pl); włączono je ze względu na
+wagę treści i trzeba to rozstrzygnąć przed publicznym wydaniem. Licencja każdego dokumentu jest w manifeście
+i w czytniku. Baza (`kb.json`) jako opracowanie tekstów CC BY-SA 4.0 jest udostępniana na tej samej licencji;
+zmiany wobec oryginałów to wyłącznie wyodrębnienie tekstu i podział na fragmenty.
+
+### Konfiguracja i sprawdzanie
+
+`.env.local` (poza gitem) w katalogu głównym:
+
+```
+EXPO_PUBLIC_KURIER_API_URL=https://…/chat
+EXPO_PUBLIC_KURIER_API_KEY=…
+```
+
+Zmienne `EXPO_PUBLIC_*` są wkompilowane w paczkę aplikacji, więc klucz proxy da się z niej odczytać –
+chronią go limity po stronie proxy, a klucz dostawcy modelu zostaje na serwerze.
+
+`npm test` sprawdza bez sieci: ekstrakcję i podział tekstu, wyszukiwanie (także na dołączonej bazie),
+odczyt planu i odnośników oraz całą pętlę z podstawionym modelem. Próba na prawdziwym proxy (zużywa jego limit):
+
+```bash
+KURIER_LIVE=1 node --env-file=.env.local node_modules/jest/bin/jest.js __tests__/kurierLive-test.ts
+```
+
+---
+
 ## Bezpieczeństwo
 
 Aplikacja pokazuje użytkownikowi ten sam obraz, co poniżej: Ustawienia → Bezpieczeństwo wylicza stan
@@ -354,6 +432,13 @@ Urząd **nie ma** wglądu w prywatne rozmowy: nie istnieje depozyt kluczy ani up
   w aplikację (`authority-roots.json`), więc dociera tylko z aktualizacją. Dlatego certyfikaty są
   krótkie (domyślnie 30 dni, najwyżej 90).
 - **Alerty są publiczne**: podpisane, ale nieszyfrowane.
+- **Kurier wymaga internetu i zaufania do zewnętrznego dostawcy.** Pytanie i fragmenty źródeł trafiają przez
+  proxy do zewnętrznego modelu językowego i nie są szyfrowane end-to-end. Klucz proxy jest w paczce aplikacji.
+- **Odpowiedź Kuriera to automatyczne streszczenie.** Aplikacja pilnuje, żeby każda odpowiedź wskazywała
+  fragmenty źródeł, ale nie sprawdza, czy zdanie wiernie oddaje fragment – po to odnośnik otwiera źródło.
+  Wyszukiwanie jest pełnotekstowe (bez embeddingów), a o doborze fraz decyduje model.
+- **Baza źródeł to migawka** z dnia pobrania; aktualizacja wymaga ponownego `fetch`, `build` i nowego wydania.
+  56 stron z obszaru zdrowia i skażeń dodano bez przeglądu treści (pole `note` w manifeście).
 - **Złośliwy przekaźnik może gubić i opóźniać pakiety** oraz zaniżać ich zasięg (obniżając `ttl`); nie
   może ich czytać, zmieniać ani podrabiać. Handshake nie wyklucza węzła, który przezroczyście przekazuje
   ruch między dwoma telefonami – „bezpośredni sąsiad” to wskazówka dla routingu, nie dowód.
