@@ -1,0 +1,5025 @@
+{
+ "note": "Manifest źródeł bazy wiedzy Kuriera. Edytuj ręcznie: \"include\": false wyłącza źródło (powód w \"excluded\"). Pola \"fetched\" uzupełnia `node scripts/kb-build.js fetch`.",
+ "sources": [
+  {
+   "id": "poradnikbezpieczenstwa-twoje-przygotowanie-ma-znaczenie2",
+   "title": "Twoje przygotowanie ma znaczenie",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/twoje-przygotowanie-ma-znaczenie2",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 20105,
+    "sha256": "98b60f862d17bc45f1775890dcbb6b1c889b1b7ebdadee635c8c16141cce26a9"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-wspolnie-dbamy-o-nasze-bezpieczenstwo2",
+   "title": "Wspólnie dbamy o nasze bezpieczeństwo",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/wspolnie-dbamy-o-nasze-bezpieczenstwo2",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 28896,
+    "sha256": "1a77cc57c3608476d9ab94456514961e80224ea352d542893213397b2d5f2b42"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-przygotuj-siebie-i-najblizszych",
+   "title": "Przygotuj siebie i najbliższych",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-siebie-i-najblizszych",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 19743,
+    "sha256": "ee06553e8fdd55aeadc5f0867a839bbce6302ca760ee5c1d93e0e4019121457e"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-osoby-potrzebujace-szczegolnej-pomocy",
+   "title": "Osoby potrzebujące szczególnej pomocy",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/osoby-potrzebujace-szczegolnej-pomocy",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 21628,
+    "sha256": "f065adee51b88aed076f00be4d43ef0f9d820b66c9813f3bfe3d8a6150d11f0d"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-zadbaj-o-zwierzeta",
+   "title": "Zadbaj o zwierzęta",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/zadbaj-o-zwierzeta",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 20893,
+    "sha256": "6c7688545eefbba6975e94eca3c7536babf30a9ca0ca71af128f012778fe05c3"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-przygotuj-swoje-otoczenie",
+   "title": "Przygotuj swoje otoczenie",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-swoje-otoczenie",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 27913,
+    "sha256": "17115df24cd59446e8daf26a8b4d5a0bd61b1878896f5ff7ff4e3ed49daa7b76"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-sygnaly-alarmowe-i-komunikaty-ostrzegawcz",
+   "title": "Sygnały alarmowe i komunikaty ostrzegawcze",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/sygnaly-alarmowe-i-komunikaty-ostrzegawcze",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 19628,
+    "sha256": "cbd5d86c7249c5912f68976cb882acfb9814356387cea1a1694e66ceca785023"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-ewakuacja",
+   "title": "Ewakuacja",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/ewakuacja",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 22635,
+    "sha256": "e3ecbad05a2e83786bfca9980da7552d12f7c685b80b6e8e546ec946452d3cf9"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-bezpieczenstwo-w-tlumie",
+   "title": "Bezpieczeństwo w tłumie",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/bezpieczenstwo-w-tlumie",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 19493,
+    "sha256": "95f217ad6c858cbb1ed79642db2d99478c067735fa45d9bd356afb634f149b3e"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-schronienia",
+   "title": "Schronienia",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/schronienia",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 19255,
+    "sha256": "689e423bb10aa2a97aaa1cf5a08103c26536e5ef0f6b094d4f6a4bba8d0a8063"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-pozar",
+   "title": "Pożar",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/pozar",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 20522,
+    "sha256": "ab874b008a3630f8966b232ba8c2f056dc4174aa288375c7302ffb1bf67a6814"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-powodz",
+   "title": "Powódź",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/powodz",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 19670,
+    "sha256": "34dc52b04de116acc15b8ec1b34f01c7ca71054467356f3b3d638f02d0f4627f"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-dlugotrwaly-brak-pradu-blackout",
+   "title": "Długotrwały brak prądu (blackout)",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 20232,
+    "sha256": "f403eb42ae8c4e1898128d4b2c5618fdab21c08228c0ef1276340201894cecba"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-atak-z-powietrza",
+   "title": "Atak z powietrza",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/atak-z-powietrza",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 19293,
+    "sha256": "562ec179b1d27ed804eb8b959018d41dbeb939fa5c5dfe1569c698a7fb4ae0f5"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-zagrozenia-chemiczne-biologiczne-radiolog",
+   "title": "Zagrożenia chemiczne, biologiczne, radiologiczne i nuklearne",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-chemiczne-biologiczne-radiologiczne-i-nuklearne",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 20305,
+    "sha256": "f4ccf45f5b5a79b76c1f80fd95853b0bccd9a1f3cc65637e1528cae760f6c662"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-niepokojace-zachowania",
+   "title": "Niepokojące zachowania",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/niepokojace-zachowania",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 20893,
+    "sha256": "a1ca90377aaa2adcd98ecbba3c01be091f87ac67453868bf9f1a51b997f3702e"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-zagrozenia-terrorystyczne",
+   "title": "Zagrożenia terrorystyczne",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-terrorystyczne",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 18689,
+    "sha256": "0dd6f97b1fa1da2eb467596beeebb034492772bbad0643e172e354eae6a49663"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-zagrozenia-cyfrowe",
+   "title": "Zagrożenia cyfrowe",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-cyfrowe",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 21259,
+    "sha256": "41fd7fb32f63765a1dca23122a19bac47ccb7b1473a2915414c9dbbd000bbc8f"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-pierwsza-pomoc",
+   "title": "Pierwsza pomoc",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/pierwsza-pomoc",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 25048,
+    "sha256": "7cab55d22bc526ee627bd3783c4b0fa927c0030f23775cfadd5e853695bb9242"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-higiena-w-kryzysie",
+   "title": "Higiena w kryzysie",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/higiena-w-kryzysie",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 19472,
+    "sha256": "e558cd312e048c9eb06e00b9be8b092506e712a370c88802051d8c0415ee7168"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-plan-na-kryzys",
+   "title": "Plan na kryzys",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 21252,
+    "sha256": "8873dea25f40f68a6059d0b4ec3d012943dc0071a799663532f2184539947709"
+   }
+  },
+  {
+   "id": "poradnikbezpieczenstwa-pytania-i-odpowiedzi",
+   "title": "Pytania i odpowiedzi",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/pytania-i-odpowiedzi",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 27459,
+    "sha256": "d4cbaaf45a7df60e258840bd6f54eb0395579bc51857ca83167b42d2919da3f8"
+   }
+  },
+  {
+   "id": "wiedza-cert-phishing-jak-rozpoznac-oszustwo-i-nie-dac-sie-nabrac",
+   "title": "Phishing: jak rozpoznać oszustwo i nie dać się nabrać (Baza wiedzy CERT Polska)",
+   "publisher": "CERT Polska / NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://wiedza.cert.pl/bezpieczenstwo-osobiste/rozpoznanie-phishingu/",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 158748,
+    "sha256": "6387190c9123576e0f480eb84d8004894f78ce1af6655894cd48d258f3792511"
+   }
+  },
+  {
+   "id": "wiedza-cert-co-zrobic-w-przypadku-wycieku-danych-praktyczny-pora",
+   "title": "Co zrobić w przypadku wycieku danych? Praktyczny poradnik krok po kroku",
+   "publisher": "CERT Polska / NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://wiedza.cert.pl/sciezki-postepowania/wycieki-danych/",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 187513,
+    "sha256": "d919ea71f62750aa2c39563a9856c63dfd86efb63500d7a61f3386199f926dca"
+   }
+  },
+  {
+   "id": "wiedza-cert-zglaszanie-incydentow-przez-formularz-na-stronie-inc",
+   "title": "Zgłaszanie incydentów przez formularz na stronie incydent.cert.pl",
+   "publisher": "CERT Polska / NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://wiedza.cert.pl/obsluga-incydentow/zgloszenie/incydent-cert-pl/",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 162170,
+    "sha256": "78a54c1fa165f7954c35e08894b0457e291098902d95d94a52759ab63b89af5e"
+   }
+  },
+  {
+   "id": "wiedza-cert-przejeta-skrzynka-pocztowa",
+   "title": "Przejęta skrzynka pocztowa",
+   "publisher": "CERT Polska / NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://wiedza.cert.pl/sciezki-postepowania/przejeta-skrzynka-pocztowa/",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 153864,
+    "sha256": "638801cb3c9018ae90d6a00c2797b226d08f7b58da788c1fc5be3eaedd93ff5f"
+   }
+  },
+  {
+   "id": "wiedza-cert-przejete-konto-w-mediach-spolecznosciowych",
+   "title": "Przejęte konto w mediach społecznościowych",
+   "publisher": "CERT Polska / NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://wiedza.cert.pl/sciezki-postepowania/przejete-konto-sm/",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 155700,
+    "sha256": "9eedf8b7bedb0e906becd3708c676b2d4816e03c7c0bf56bd126dce3a1c19d12"
+   }
+  },
+  {
+   "id": "wiedza-cert-bezpieczenstwo-telefonu",
+   "title": "Bezpieczeństwo telefonu",
+   "publisher": "CERT Polska / NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://wiedza.cert.pl/bezpieczenstwo-osobiste/bezpieczny-telefon/",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 159464,
+    "sha256": "c454ea41fa9b8e27e85f6fdac8acfdc9975f6ec5786b202fac4096c9fb7b02b5"
+   }
+  },
+  {
+   "id": "wiedza-cert-jak-tworzyc-bezpieczne-hasla-i-chronic-swoje-konta",
+   "title": "Jak tworzyć bezpieczne hasła i chronić swoje konta",
+   "publisher": "CERT Polska / NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://wiedza.cert.pl/dobre-praktyki/hasla/",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 154873,
+    "sha256": "899c9b078bccc9a6f2aee25fa7cbe2fc32959d3dcf5be5eb2dfa1d185758a35a"
+   }
+  },
+  {
+   "id": "wiedza-cert-bezpieczenstwo-kont-na-social-mediach",
+   "title": "Bezpieczeństwo kont na social mediach",
+   "publisher": "CERT Polska / NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://wiedza.cert.pl/bezpieczenstwo-osobiste/profilaktyka-sm/",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 157425,
+    "sha256": "335c8d0b73993f9b32b489837ce7afba3443c42c2bbd7cdb17efe872d1113ce5"
+   }
+  },
+  {
+   "id": "cert-falszywi-konsultanci",
+   "title": "Fałszywi konsultanci",
+   "publisher": "CERT Polska / NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://cert.pl/baza-wiedzy/falszywi-konsultanci/",
+   "format": "html",
+   "priority": "medium",
+   "license": "© NASK, brak otwartej licencji",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 253568,
+    "sha256": "73cdb4ffc318a47c7d49172715b2000067f049b9f9ef76257617777ff005c68f"
+   }
+  },
+  {
+   "id": "cert-uwazaj-na-falszywe-prosby-o-szybki-przelew",
+   "title": "Uważaj na fałszywe prośby o szybki przelew",
+   "publisher": "CERT Polska / NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://cert.pl/szybkie-przelewy/",
+   "format": "html",
+   "priority": "medium",
+   "license": "© NASK, brak otwartej licencji",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 242366,
+    "sha256": "139f0bbf41d31d9b4aff67da9ac32f51e28d1207a0137574ea7100d4439da406"
+   }
+  },
+  {
+   "id": "cert-uwazaj-na-falszywe-zalaczniki",
+   "title": "Uważaj na fałszywe załączniki!",
+   "publisher": "CERT Polska / NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://cert.pl/falszywe-zalaczniki/",
+   "format": "html",
+   "priority": "medium",
+   "license": "© NASK, brak otwartej licencji",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 244118,
+    "sha256": "453218f60587bc439be396dd61aa8c23ea586308c4a468d25f303d01e0f5460f"
+   }
+  },
+  {
+   "id": "cert-nie-bezpieczne-platnosci",
+   "title": "(Nie)bezpieczne płatności!",
+   "publisher": "CERT Polska / NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://cert.pl/baza-wiedzy/niebezpieczne-platnosci/",
+   "format": "html",
+   "priority": "medium",
+   "license": "© NASK, brak otwartej licencji",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 240840,
+    "sha256": "c98386503e03c9a33e62c61e5c65716881c73b05be06cfec613d338fd557d950"
+   }
+  },
+  {
+   "id": "cert-poradnik-ransomware",
+   "title": "Poradnik ransomware",
+   "publisher": "CERT Polska / NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://cert.pl/uploads/docs/CERT_Polska_Poradnik_ransomware.pdf",
+   "format": "pdf",
+   "priority": "high",
+   "license": "© NASK, brak otwartej licencji",
+   "year": 2021,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 1661150,
+    "sha256": "4178bec4dd7ee3f0a4794c0d3f84e8d9cadc8b0da16512db86cde4fee3ae81c1"
+   }
+  },
+  {
+   "id": "cert-wazne-zasady-bezpiecznego-uzytkowania-poczty-elektronicznej",
+   "title": "Ważne zasady bezpiecznego użytkowania poczty elektronicznej i mediów społecznościowych",
+   "publisher": "CERT Polska / NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://cert.pl/uploads/docs/CERT_Polska_Bezpieczna_poczta_i_konta_spolecznosciowe.pdf",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "© NASK, brak otwartej licencji",
+   "year": 2021,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 429023,
+    "sha256": "1e3c557d8f590061d531e316ded203e82dcc4136256452dc1691350cf2c99b95"
+   }
+  },
+  {
+   "id": "baza-wiedzy-cyberbezpieczenstwo",
+   "title": "Dla każdego - cyberhigiena (lista artykułów Bazy wiedzy)",
+   "publisher": "Ministerstwo Cyfryzacji (gov.pl/web/baza-wiedzy)",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.gov.pl/web/baza-wiedzy/cyberbezpieczenstwo",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2019,
+   "include": false,
+   "excluded": "lista artykułów, nie treść"
+  },
+  {
+   "id": "baza-wiedzy-czym-jest-phishing-i-jak-nie-dac-sie-nabrac-na-podej",
+   "title": "Czym jest PHISHING i jak nie dać się nabrać na podejrzane wiadomości e-mail oraz SMS-y?",
+   "publisher": "Ministerstwo Cyfryzacji",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.gov.pl/web/baza-wiedzy/czym-jest-phishing-i-jak-nie-dac-sie-nabrac-na-podejrzane-widomosci-e-mail-oraz-sms-y",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 23907,
+    "sha256": "9f7dccb51e1bd5da524529594fe9a2b9a191aaaf98e21ba8e9c44fb658eb8301"
+   }
+  },
+  {
+   "id": "baza-wiedzy-jak-rozpoznac-dezinformacje-w-sieci-trwa-ogolnopolsk",
+   "title": "Jak rozpoznać dezinformację w sieci? Trwa ogólnopolska kampania społeczna Ministerstwa Cyfryzacji i NASK",
+   "publisher": "Ministerstwo Cyfryzacji, NASK",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.gov.pl/web/baza-wiedzy/jak-rozpoznac-dezinformacje-w-sieci-trwa-ogolnopolska-kampania-spoleczna-ministerstwa-cyfryzacji-i-nask",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 23433,
+    "sha256": "e9da7c1934ab8fe7079ea52bcb868fc36231396b020d9a0c3e06c0e2ecfd426a"
+   }
+  },
+  {
+   "id": "baza-wiedzy-rozpoznawanie-nieprawdziwych-informacji",
+   "title": "Rozpoznawanie nieprawdziwych informacji",
+   "publisher": "Ministerstwo Cyfryzacji",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.gov.pl/web/baza-wiedzy/rozpoznawanie-nieprawdziwych-informacji",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2019,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 19549,
+    "sha256": "d7e484062845acc368fbc39fd19e5e0c23cec4dae6238481ac758d53a53ec658"
+   }
+  },
+  {
+   "id": "baza-wiedzy-zglaszanie-incydentow",
+   "title": "Zgłaszanie incydentów",
+   "publisher": "Ministerstwo Cyfryzacji",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.gov.pl/web/baza-wiedzy/zglaszanie-incydentow",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 18092,
+    "sha256": "3ed928168c6df2b41bc8c11d51c500b401c5474499e87d5e66fdb149ba6d597d"
+   }
+  },
+  {
+   "id": "baza-wiedzy-uwazaj-na-vishing-czyli-oszustwo-z-wykorzystaniem-po",
+   "title": "Uważaj na vishing - czyli oszustwo z wykorzystaniem połączeń telefonicznych",
+   "publisher": "Ministerstwo Cyfryzacji",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.gov.pl/web/baza-wiedzy/uwazaj-na-vishing---czyli-oszustwo-z-wykorzystaniem-polaczen-telefonicznych",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2023,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 20074,
+    "sha256": "53c07fc7fe4610a6b9d61235a9f7540fcbf9a9bd21d97cce2d6c7e69f17a68fc"
+   }
+  },
+  {
+   "id": "baza-wiedzy-konfigurowanie-uwierzytelniania-dwuskladnikowego-2fa",
+   "title": "Konfigurowanie uwierzytelniania dwuskładnikowego (2FA)",
+   "publisher": "Ministerstwo Cyfryzacji",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.gov.pl/web/baza-wiedzy/konfigurowanie-uwierzytelniania-dwuskladnikowego-2fa",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 24661,
+    "sha256": "d199d4bd70f30df815b88df265affe0038b131470625a51e72d0ea0fbc1d8e94"
+   }
+  },
+  {
+   "id": "baza-wiedzy-tworzenie-zapasowych-kopii-danych",
+   "title": "Tworzenie zapasowych kopii danych",
+   "publisher": "Ministerstwo Cyfryzacji",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.gov.pl/web/baza-wiedzy/tworzenie-zapasowych-kopii-danych",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 20946,
+    "sha256": "bc8cb9737646813ce1ccb73c3a9a48df8645a157e8dd76564bc0f66aa5fdf85b"
+   }
+  },
+  {
+   "id": "baza-wiedzy-zlosliwe-oprogramowanie-co-to-takiego-jak-sie-chroni",
+   "title": "Złośliwe oprogramowanie – co to takiego, jak się chronić?",
+   "publisher": "Ministerstwo Cyfryzacji",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.gov.pl/web/baza-wiedzy/zlosliwe-oprogramowanie--co-to-takiego-jak-sie-chronic",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2021,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 22372,
+    "sha256": "15f1ec844fe49e7a2f8c378ca6b0abcb0877a87413e07145b733fbe4e8936a74"
+   }
+  },
+  {
+   "id": "baza-wiedzy-po-co-hakerzy-wlamuja-sie-na-konta-facebooka-co-zrob",
+   "title": "Po co hakerzy włamują się na konta Facebooka? Co zrobić, jeżeli ktoś zhakował Twoje konto?",
+   "publisher": "Ministerstwo Cyfryzacji",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.gov.pl/web/baza-wiedzy/po-co-hakerzy-wlamuja-sie-na-konta-facebooka-co-zrobic-jezeli-ktos-zhakowal-twoje-konto",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2023,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 22443,
+    "sha256": "91827c8c32014ae611e88b2ae80c6562a8486ead7c55266080fff580efc0fadc"
+   }
+  },
+  {
+   "id": "baza-wiedzy-bezpiecznie-w-sieci-nowa-usluga-do-walki-z-cyberzagr",
+   "title": "Bezpiecznie w sieci – nowa usługa do walki z cyberzagrożeniami dostępna w mObywatelu",
+   "publisher": "Ministerstwo Cyfryzacji",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.gov.pl/web/baza-wiedzy/bezpiecznie-w-sieci--nowa-usluga-do-walki-z-cyberzagrozeniami-dostepna-w-mobywatelu",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 20428,
+    "sha256": "191d6cc2e53490e84303b274bc11d01a24487069903b54a4ef271a97d132da4b"
+   }
+  },
+  {
+   "id": "nask-chron-sie-przed-dezinformacja-strona-kampanii-sprawdzam",
+   "title": "Chroń się przed dezinformacją (strona kampanii SPRAWDZAM)",
+   "publisher": "NASK-PIB (Ośrodek Analizy Dezinformacji)",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.nask.pl/dezinfo",
+   "format": "html",
+   "priority": "core",
+   "license": "© NASK, brak otwartej licencji",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 290901,
+    "sha256": "d3e41e419ac15ef03d1ee20ba0076cccbf076f73f3d1ead1a1709950661e0eb7"
+   }
+  },
+  {
+   "id": "nask-osrodek-analizy-dezinformacji-kompendium-czym-jest-dezinfor",
+   "title": "Ośrodek Analizy Dezinformacji (kompendium: czym jest dezinformacja, techniki, zgłaszanie)",
+   "publisher": "NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.nask.pl/instytut/dla-ciebie/dezinfo",
+   "format": "html",
+   "priority": "high",
+   "license": "© NASK, brak otwartej licencji",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 595816,
+    "sha256": "825b0b1cab8bae579846bb724f455792d09657dbbeb26d7b3583785c1dd2b929"
+   }
+  },
+  {
+   "id": "nask-jak-dezinformacja-moze-przyczyniac-sie-do-wywolywania-panik",
+   "title": "Jak dezinformacja może przyczyniać się do wywoływania paniki?",
+   "publisher": "NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.nask.pl/magazyn/jak-dezinformacja-moze-przyczyniac-sie-do-wywolywania-paniki",
+   "format": "html",
+   "priority": "medium",
+   "license": "© NASK, brak otwartej licencji",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 611803,
+    "sha256": "22382aa90740278964105660bedb1c153ac05acfc594f0e448cc591231178d9f"
+   }
+  },
+  {
+   "id": "nask-jak-przeciwdzialac-dezinformacji-poradnik-dla-administracji",
+   "title": "Jak przeciwdziałać dezinformacji? Poradnik dla administracji publicznej",
+   "publisher": "NASK-PIB",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.nask.pl/media/2025/01/Dezinfo_PoradnikAdministracji1.pdf",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "© NASK, brak otwartej licencji",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 3012945,
+    "sha256": "91a2c35dfa3c6c75abcfb4cb519af06f23f7bf66df8dfd4d01395046af85601b"
+   }
+  },
+  {
+   "id": "bezpiecznedane-reakcja-na-wyciek-danych-baza-wiedzy-bezpieczneda",
+   "title": "Reakcja na wyciek danych (Baza wiedzy bezpiecznedane.gov.pl)",
+   "publisher": "Ministerstwo Cyfryzacji, NASK, CERT Polska",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://bezpiecznedane.gov.pl/baza-wiedzy/reakcja-na-wyciek-danych",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 131395,
+    "sha256": "596e0ddc975c1467bb82567f86d1080fce7546707304a6665406d8b1acb00cd2"
+   }
+  },
+  {
+   "id": "cbzc-policja-zglos-cyberoszustwo",
+   "title": "Zgłoś cyberoszustwo",
+   "publisher": "Policja - Centralne Biuro Zwalczania Cyberprzestępczości",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://cbzc.policja.gov.pl/bzc/zglos-cyberprzestepstwo/464,Zglos-cyberoszustwo.html",
+   "format": "html",
+   "priority": "high",
+   "license": "Policja, wykorzystanie za podaniem źródła",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 59192,
+    "sha256": "4fc1f82f095cb5da3d492047f270f8c1327972736ef093fd9565cf11909c6ac6"
+   }
+  },
+  {
+   "id": "gov-zastrzez-swoj-numer-pesel-lub-cofnij-zastrzezenie",
+   "title": "Zastrzeż swój numer PESEL lub cofnij zastrzeżenie",
+   "publisher": "Ministerstwo Cyfryzacji (gov.pl - usługi dla obywatela)",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.gov.pl/web/gov/zastrzez-swoj-numer-pesel-lub-cofnij-zastrzezenie",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 22657,
+    "sha256": "78f0edbaa8c20ea0a132fac597b1e046f041015032937ffa60642669df8c8c66"
+   }
+  },
+  {
+   "id": "gov-zglos-przestepstwo",
+   "title": "Zgłoś przestępstwo",
+   "publisher": "gov.pl - usługi dla obywatela (Policja/MSWiA)",
+   "group": "Terroryzm i porządek publiczny",
+   "url": "https://www.gov.pl/web/gov/zglos-przestepstwo",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 30263,
+    "sha256": "0be1968eb19c98ea1a6c777336593b9b0c5c1609a2dec27d50fa8fd7a5492ef1"
+   }
+  },
+  {
+   "id": "4u-tpcoe-kampania-spoleczna-4u-uwazaj-uciekaj-ukryj-sie-udaremni",
+   "title": "Kampania społeczna 4U! – Uważaj, Uciekaj, Ukryj się, Udaremnij atak",
+   "publisher": "ABW - Centrum Antyterrorystyczne, Wydział Prewencji Zagrożeń (dawne CPT ABW)",
+   "group": "Terroryzm i porządek publiczny",
+   "url": "https://4u.tpcoe.gov.pl/",
+   "format": "html",
+   "priority": "core",
+   "license": "ABW, brak deklaracji licencyjnej",
+   "year": 2015,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 13608,
+    "sha256": "22e0b23dcc8eb7719c386610cfd5bf08e4a9aef45766715eb0cc899843c86859"
+   }
+  },
+  {
+   "id": "tpcoe-broszura-prewencji-terrorystycznej-terrorism-prevention-br",
+   "title": "Broszura Prewencji Terrorystycznej / Terrorism Prevention Brochure",
+   "publisher": "ABW - Centrum Prewencji Terrorystycznej",
+   "group": "Terroryzm i porządek publiczny",
+   "url": "https://tpcoe.gov.pl/download/10/3605/BroszuraPrewencjiTerrorystycznej.pdf",
+   "format": "pdf",
+   "priority": "core",
+   "license": "ABW, brak deklaracji licencyjnej",
+   "year": 2020,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 59025185,
+    "sha256": "9c4f0a666450bf223face75c53eb8f2d706365ec5a996e67a549967840920396"
+   }
+  },
+  {
+   "id": "postepowanie-w-przypadku-zagrozenia-atakiem-terr-b6d700ea",
+   "title": "Postępowanie w przypadku zagrożenia atakiem terrorystycznym",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/attachment/b6d700ea-75be-417b-8141-50493d1f0aae",
+   "format": "pdf",
+   "priority": "core",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2020,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 2342130,
+    "sha256": "fd8705eb778f8497a96e4f9f2c86f35bfef400b261fd9d48fa52ddb168d4fcf0"
+   }
+  },
+  {
+   "id": "zasady-postepowania-w-przypadku-zagrozenia-terro-91fa2567",
+   "title": "Zasady postępowania w przypadku zagrożenia terrorystycznego – poradnik dla mieszkańców",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/attachment/91fa2567-d6da-44f6-986d-561a2db77a37",
+   "format": "pdf",
+   "priority": "high",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2015,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 7008521,
+    "sha256": "aa497e4c2abdb391473aa332217063dbb54d7e647d22c18fc1d94303a912a2f0"
+   }
+  },
+  {
+   "id": "mswia-procedura-informowania-na-wypadek-zdarzenia-o-charakterze",
+   "title": "Procedura informowania na wypadek zdarzenia o charakterze terrorystycznym z udziałem sprawcy uzbrojonego w broń palną",
+   "publisher": "MSWiA, ABW",
+   "group": "Terroryzm i porządek publiczny",
+   "url": "https://www.gov.pl/web/mswia/procedura-informowania-na-wypadek-zdarzenia-o-charakterze-terrorystycznym-z-udzialem-sprawcy-uzbrojonego-w-bron-palna",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 28815,
+    "sha256": "97e35b732e39e66d41c805f2bdacf3d7807c22810bb1f6110c5eb0a75cdedb5d"
+   }
+  },
+  {
+   "id": "mswia-poradniki2",
+   "title": "Poradniki (System antyterrorystyczny RP – Profilaktyka)",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/poradniki2",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2014,
+   "include": false,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 31294,
+    "sha256": "58599a80794ff3b37137453adcdc1c6150008190ffd61a4d4e7e3ac673a208d8"
+   },
+   "excluded": "strona bez własnej treści (lista odnośników albo mapa)"
+  },
+  {
+   "id": "zalacznik-nr-4-zasady-postepowania-w-trakcie-ope-9d1349f5",
+   "title": "Załącznik nr 4 – Zasady postępowania w trakcie operacji antyterrorystycznej i sytuacji zakładniczej",
+   "publisher": "MSWiA / ABW",
+   "group": "Terroryzm i porządek publiczny",
+   "url": "https://www.gov.pl/attachment/9d1349f5-a7d0-48eb-81fd-325a63a443f2",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2015,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 81297,
+    "sha256": "4073d5ba684a039e4647f9b5591a3df8f45bc03a8d0d1f6cccea25aed80cf973"
+   }
+  },
+  {
+   "id": "zalacznik-nr-1-zasady-postepowania-dla-osob-ktor-ec7f215b",
+   "title": "Załącznik nr 1 – Zasady postępowania dla osób, które jako pierwsze uzyskały informację o podłożeniu lub zlokalizowaniu urządzenia wybuchowego",
+   "publisher": "MSWiA / ABW",
+   "group": "Terroryzm i porządek publiczny",
+   "url": "https://www.gov.pl/attachment/ec7f215b-09a4-4dda-abf4-add811a954b1",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2015,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 95031,
+    "sha256": "fab081248fd52d0ff2f20a984bd338b81c3c174d9ce8594bf4e4678524ac30d5"
+   }
+  },
+  {
+   "id": "instrukcja-alarmowa-zasady-postepowania-w-przypa-a0b0c901",
+   "title": "INSTRUKCJA ALARMOWA – Zasady postępowania w przypadku uzyskania informacji o podłożeniu lub zlokalizowaniu urządzenia wybuchowego w obiekcie użyteczności publicznej",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/attachment/a0b0c901-675f-41bc-ae53-22647d490b0c",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2020,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 753791,
+    "sha256": "0074e9a7738bcb814fdd48bc9d20267c0fb88afd58244f00eebb4f7b4db54141"
+   }
+  },
+  {
+   "id": "procedura-dzialania-instytucji-otrzymujacej-pode-f397097a",
+   "title": "Procedura działania instytucji otrzymującej podejrzaną przesyłkę",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/attachment/f397097a-21d4-4b50-9060-6171fda52e7d",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2020,
+   "include": false,
+   "excluded": "schemat blokowy, tekst traci logikę; jest wersja HTML"
+  },
+  {
+   "id": "zasady-postepowania-na-wypadek-wtargniecia-napas-a0a53287",
+   "title": "Zasady postępowania na wypadek wtargnięcia napastnika na teren placówki oświatowej",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/attachment/a0a53287-b92b-41e3-852c-2a77965c3521",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2014,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 761994,
+    "sha256": "cc2cee7f0e04d95b9e3dd30c2be08d8e8639cc52921183be9ccbf635eb51a11a"
+   }
+  },
+  {
+   "id": "mswia-rodzaje-stopni-alarmowych",
+   "title": "Rodzaje stopni alarmowych",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/rodzaje-stopni-alarmowych",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 28242,
+    "sha256": "37feec5cb784218231f3ef8a65a7f0392e3feb6917e330c6ddfb9beff91afb67"
+   }
+  },
+  {
+   "id": "rcb-stopnie-alarmowe2",
+   "title": "Stopnie alarmowe",
+   "publisher": "Rządowe Centrum Bezpieczeństwa",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/stopnie-alarmowe2",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 35298,
+    "sha256": "7eb6fe538bb582a73ab412801d1ead6768d095d66ca986e6e8969f6a199567d3"
+   }
+  },
+  {
+   "id": "tpcoe-postepowanie-z-podejrzana-przesylka",
+   "title": "Postępowanie z podejrzaną przesyłką",
+   "publisher": "ABW - Wydział Prewencji Zagrożeń CAT (tpcoe.gov.pl)",
+   "group": "Terroryzm i porządek publiczny",
+   "url": "https://tpcoe.gov.pl/cpt/materialy/1800,Postepowanie-z-podejrzana-przesylka.html",
+   "format": "html",
+   "priority": "high",
+   "license": "ABW, brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 14499,
+    "sha256": "f1319236df8cba714c0f6af4b48eae1cd0d66d39cd1cf80c622144997da47031"
+   }
+  },
+  {
+   "id": "tpcoe-informacje-dot-procesu-radykalizacji",
+   "title": "Informacje dot. procesu radykalizacji",
+   "publisher": "ABW - Wydział Prewencji Zagrożeń CAT",
+   "group": "Terroryzm i porządek publiczny",
+   "url": "https://tpcoe.gov.pl/cpt/materialy/1799,Informacje-dot-procesu-radykalizacji.html",
+   "format": "html",
+   "priority": "medium",
+   "license": "ABW, brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 20778,
+    "sha256": "f467d729498ae2aff266f6f0b7c1a3135ee4fc2b0acb40c25d0e9f9fc4b6add8"
+   }
+  },
+  {
+   "id": "tpcoe-tresci-o-charakterze-terrorystycznym-w-internecie",
+   "title": "Treści o charakterze terrorystycznym w Internecie",
+   "publisher": "ABW - Wydział Prewencji Zagrożeń CAT",
+   "group": "Terroryzm i porządek publiczny",
+   "url": "https://tpcoe.gov.pl/cpt/materialy/1839,Tresci-o-charakterze-terrorystycznym-w-Internecie.html",
+   "format": "html",
+   "priority": "medium",
+   "license": "ABW, brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 15790,
+    "sha256": "9ebbf3da72465a5d15b6c3e65812514b61588c9318a280b16afbaf1796f87888"
+   }
+  },
+  {
+   "id": "cichyfront-cichy-front-kampania-spoleczna-abw-i-tvp-zagrozenia-h",
+   "title": "Cichy Front – kampania społeczna ABW i TVP (zagrożenia hybrydowe, dywersja, werbunek)",
+   "publisher": "ABW - Centrum Antyterrorystyczne; TVP",
+   "group": "Terroryzm i porządek publiczny",
+   "url": "https://www.cichyfront.gov.pl/",
+   "format": "html",
+   "priority": "high",
+   "license": "ABW, brak deklaracji licencyjnej",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 21337,
+    "sha256": "fab7d4be45327f265d551e5e07d7bb4718c8ee3db7ca73dacd86094e3b2c3450"
+   }
+  },
+  {
+   "id": "policja-znalazles-niewybuch-nie-dotykaj-go-i-powiadom-sluzby",
+   "title": "Znalazłeś niewybuch? Nie dotykaj go i powiadom służby!",
+   "publisher": "Policja (policja.pl; autor KWP Gorzów Wlkp.)",
+   "group": "Terroryzm i porządek publiczny",
+   "url": "https://policja.pl/pol/aktualnosci/264644,Znalazles-niewybuch-Nie-dotykaj-go-i-powiadom-sluzby.html",
+   "format": "html",
+   "priority": "high",
+   "license": "Policja, wykorzystanie za podaniem źródła",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 61435,
+    "sha256": "ea314e37e050075bacadb3b22d347a2fbd940bb9645b208964ecb20dfcd58184"
+   }
+  },
+  {
+   "id": "czkw-kielce-uw-uwaga-wazny-komunikat-postepowanie-po-znalezieniu",
+   "title": "Uwaga! Ważny komunikat (postępowanie po znalezieniu szczątków drona)",
+   "publisher": "Świętokrzyski Urząd Wojewódzki - Wojewódzkie Centrum Zarządzania Kryzysowego",
+   "group": "Inne instytucje",
+   "url": "https://czkw.kielce.uw.gov.pl/czk/aktualnosci-i-komunikat/aktualnosci/31027,Uwaga-Wazny-komunikat.html",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 19337,
+    "sha256": "84d81af7ceafa8b6d7c8bec36414af316bdb19dddf4fb9bfa129e9e11883d6dd"
+   }
+  },
+  {
+   "id": "poznan-uw-niewypaly-i-niewybuchy-ulotka",
+   "title": "Niewypały i niewybuchy (ulotka)",
+   "publisher": "Wielkopolski Urząd Wojewódzki w Poznaniu",
+   "group": "Inne instytucje",
+   "url": "https://poznan.uw.gov.pl/system/files/zalaczniki/niewypaly_i_niewybuchy.pdf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "brak deklaracji licencyjnej",
+   "year": 2015,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 87940,
+    "sha256": "4cc3a0783b094a4855a17e054edeea28b26e7b05d0ed8f25785216a2d8748070"
+   }
+  },
+  {
+   "id": "policja-co-robic-gdy-zaginie-osoba-najblizsza-policja-radzi-i-ap",
+   "title": "Co robić gdy zaginie osoba najbliższa - policja radzi i apeluje",
+   "publisher": "Policja (policja.pl; autor KWP Gdańsk)",
+   "group": "Terroryzm i porządek publiczny",
+   "url": "https://policja.pl/pol/aktualnosci/226168,Co-robic-gdy-zaginie-osoba-najblizsza-policja-radzi-i-apeluje-oraz-dziekuje-za-o.html",
+   "format": "html",
+   "priority": "medium",
+   "license": "Policja, wykorzystanie za podaniem źródła",
+   "year": 2022,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 63732,
+    "sha256": "d93db1a3e00158de19604b52811ad54446985718ff7da59c372ff96cd087229b"
+   }
+  },
+  {
+   "id": "pse-stopnie-zasilania",
+   "title": "Stopnie zasilania",
+   "publisher": "Polskie Sieci Elektroenergetyczne S.A. (operator systemu przesyłowego)",
+   "group": "Inne instytucje",
+   "url": "https://www.pse.pl/jak-funkcjonuje-krajowy-system-elektroenergetyczny/stopnie-zasilania",
+   "format": "html",
+   "priority": "high",
+   "license": "PSE, brak deklaracji licencyjnej",
+   "year": 2021,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 48744,
+    "sha256": "810fd8ffebf7bafe9ae5639d78c256ed0a86a5c6ff2fb702c7281c50df75877a"
+   }
+  },
+  {
+   "id": "ure-bonifikaty-za-niedotrzymanie-parametrow-jakosciowych-energii",
+   "title": "Bonifikaty za niedotrzymanie parametrów jakościowych energii elektrycznej i standardów jakościowych obsługi odbiorców (FAQ)",
+   "publisher": "Urząd Regulacji Energetyki",
+   "group": "Inne instytucje",
+   "url": "https://www.ure.gov.pl/pl/konsumenci/faq-czesto-zadawane-py/energia-elektryczna/12198,Bonifikaty-za-nie-dotrzymanie-paramentow-jakosciowych-energii-elektrycznej-i-sta.html",
+   "format": "html",
+   "priority": "low",
+   "license": "brak deklaracji licencyjnej",
+   "year": 2022,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 77286,
+    "sha256": "9aa121edaf538db48b53ff3a9a07884441c8008261aab78fcb91455c1ec651ae"
+   }
+  },
+  {
+   "id": "uw-warminsko-mazurski-gasnie-swiatlo-wlacz-rozsadek-jak-przygoto",
+   "title": "Gaśnie światło? Włącz rozsądek. Jak przygotować się na brak prądu",
+   "publisher": "Warmińsko-Mazurski Urząd Wojewódzki w Olsztynie",
+   "group": "Inne instytucje",
+   "url": "https://www.gov.pl/web/uw-warminsko-mazurski/gasnie-swiatlo-wlacz-rozsadek-jak-przygotowac-sie-na-brak-pradu",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 38687,
+    "sha256": "e9829031f3a41293b306304a5a0deac99bf5eeb48d4ef830725c3a4fade7a0d3"
+   }
+  },
+  {
+   "id": "bfg-najczestsze-pytania-i-odpowiedzi-gwarantowanie-depozytow",
+   "title": "Najczęstsze pytania i odpowiedzi (gwarantowanie depozytów)",
+   "publisher": "Bankowy Fundusz Gwarancyjny",
+   "group": "Inne instytucje",
+   "url": "https://bfg.pl/gwarantowanie-depozytow/najczestsze-pytania-i-odpowiedzi/",
+   "format": "html",
+   "priority": "low",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 143410,
+    "sha256": "e922a6d07732fb6862a44d793716c7da44e67d2f0741643a8bcbe339066d7801"
+   }
+  },
+  {
+   "id": "dyplomacja-jakiej-pomocy-moze-udzielic-konsul",
+   "title": "Jakiej pomocy może udzielić konsul?",
+   "publisher": "Ministerstwo Spraw Zagranicznych",
+   "group": "Inne instytucje",
+   "url": "https://www.gov.pl/web/dyplomacja/jakiej-pomocy-moze-udzielic-konsul",
+   "format": "html",
+   "priority": "low",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 32676,
+    "sha256": "79e7a5fdd2417c32789bf464b524f272fdb08ff5faf443d157e68d3f5bf30d86"
+   }
+  },
+  {
+   "id": "gov-zglos-pobyt-za-granica-system-odyseusz",
+   "title": "Zgłoś pobyt za granicą – system Odyseusz",
+   "publisher": "MSZ (gov.pl - usługi dla obywatela)",
+   "group": "Inne instytucje",
+   "url": "https://www.gov.pl/web/gov/zglos-pobyt-za-granica-system-odyseusz",
+   "format": "html",
+   "priority": "low",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": false,
+   "excluded": "karta usługi, możliwie nieaktualna"
+  },
+  {
+   "id": "prawo-du-2024-1907",
+   "title": "Ustawa z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (tekst ujednolicony Kancelarii Sejmu)",
+   "publisher": "Sejm RP / Kancelaria Sejmu (ISAP-ELI); organ właściwy: MSWiA",
+   "group": "Akty prawne",
+   "url": "https://api.sejm.gov.pl/eli/acts/DU/2024/1907/text/U/D20241907Lj.pdf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "Akt prawny (art. 4 pr. aut.)",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 895468,
+    "sha256": "674999e917cdec9b6a2d48285773c6bee42fd64b7270cb95d2c2930fefc64927"
+   }
+  },
+  {
+   "id": "prawo-du-2024-1907-2",
+   "title": "Ustawa z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej - tekst ogłoszony w wersji HTML (ELI)",
+   "publisher": "Sejm RP / Kancelaria Sejmu (ELI API)",
+   "group": "Akty prawne",
+   "url": "https://api.sejm.gov.pl/eli/acts/DU/2024/1907/text.html",
+   "format": "html",
+   "priority": "low",
+   "license": "Akt prawny (art. 4 pr. aut.)",
+   "year": 2024,
+   "include": false,
+   "excluded": "tekst pierwotny ustawy, zastąpiony tekstem ujednoliconym"
+  },
+  {
+   "id": "prawo-du-2025-645",
+   "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 maja 2025 r. w sprawie alarmów i komunikatów ostrzegawczych",
+   "publisher": "MSWiA (Dziennik Ustaw)",
+   "group": "Akty prawne",
+   "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/645/text/O/D20250645.pdf",
+   "format": "pdf",
+   "priority": "high",
+   "license": "Akt prawny (art. 4 pr. aut.)",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 366999,
+    "sha256": "001a231079bbc71ba0210decd7eb9358fa693bdd08d624d451e8a5cea7800c03"
+   }
+  },
+  {
+   "id": "prawo-du-2024-290",
+   "title": "Rozporządzenie Rady Ministrów z dnia 23 lutego 2024 r. w sprawie systemów wykrywania skażeń i powiadamiania o ich wystąpieniu oraz właściwości organów w tych sprawach",
+   "publisher": "Rada Ministrów (Dziennik Ustaw)",
+   "group": "Akty prawne",
+   "url": "https://api.sejm.gov.pl/eli/acts/DU/2024/290/text/O/D20240290.pdf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "Akt prawny (art. 4 pr. aut.)",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 230255,
+    "sha256": "9eb671ab911d45f0bdb266d275404ee5a7a94419aa8bf8491c3be208e3d85ac0"
+   }
+  },
+  {
+   "id": "prawo-du-2025-765",
+   "title": "Rozporządzenie Rady Ministrów z dnia 30 maja 2025 r. w sprawie ewakuacji ludności oraz zabezpieczenia mienia",
+   "publisher": "Rada Ministrów (Dziennik Ustaw)",
+   "group": "Akty prawne",
+   "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/765/text/O/D20250765.pdf",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "Akt prawny (art. 4 pr. aut.)",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 216228,
+    "sha256": "e0805510826a248f32ada9c57cbbcb9597533f05d68df168f6ab5a14ef8aac81"
+   }
+  },
+  {
+   "id": "prawo-du-2025-932",
+   "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 9 lipca 2025 r. w sprawie warunków organizowania oraz wymagań, jakie powinny spełniać miejsca doraźnego schronienia",
+   "publisher": "MSWiA (Dziennik Ustaw)",
+   "group": "Akty prawne",
+   "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/932/text/O/D20250932.pdf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "Akt prawny (art. 4 pr. aut.)",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 1117058,
+    "sha256": "1c444e74c64b67f3c17f8b28378751977438a49e34753df611a283637b0b57fb"
+   }
+  },
+  {
+   "id": "prawo-du-2025-933",
+   "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 lipca 2025 r. w sprawie sposobu przygotowania obiektu zbiorowej ochrony do użycia, szczegółowych warunków eksploatacji budowli ochronnych, zapewnienia porządku w ich obrębie oraz ich niezbędnego wyposażenia",
+   "publisher": "MSWiA (Dziennik Ustaw)",
+   "group": "Akty prawne",
+   "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/933/text/O/D20250933.pdf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "Akt prawny (art. 4 pr. aut.)",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 215100,
+    "sha256": "93bcc93ed598be5cd891f15163c774784fb9ed1512e337f01d3b7a218bdb64b4"
+   }
+  },
+  {
+   "id": "prawo-du-2025-162",
+   "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 6 lutego 2025 r. w sprawie programów szkoleń z zakresu ochrony ludności i obrony cywilnej oraz wymagań dla podmiotów prowadzących szkolenia",
+   "publisher": "MSWiA (Dziennik Ustaw)",
+   "group": "Akty prawne",
+   "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/162/text/O/D20250162.pdf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "Akt prawny (art. 4 pr. aut.)",
+   "year": 2025,
+   "include": false,
+   "excluded": "rozporządzenie o szkoleniach, treść dla administracji"
+  },
+  {
+   "id": "instrukcja-reagowania-zagrozenie-atakiem-z-powie-b6d18f0b",
+   "title": "Instrukcja reagowania. Zagrożenie atakiem z powietrza",
+   "publisher": "MSWiA (we współpracy z PSP)",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/attachment/b6d18f0b-0412-455b-acb8-a64df52dfb67",
+   "format": "pdf",
+   "priority": "core",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 2041727,
+    "sha256": "ac9c5ebbfaaa2a008e274a3656287ba866f1e0f8bd1bcf4f1092b9d4aa6a662d"
+   }
+  },
+  {
+   "id": "mswia-mswia-publikuje-instrukcje-reagowania-podczas-zagrozenia-a",
+   "title": "MSWiA publikuje instrukcję reagowania podczas zagrożenia atakiem z powietrza",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/mswia-publikuje-instrukcje-reagowania-podczas-zagrozenia-atakiem-z-powietrza",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 31793,
+    "sha256": "4270d8d451c68c8aeb5348d8d48ee7117f9beb19316b4ad12a3d464a5b250f1f"
+   }
+  },
+  {
+   "id": "plakat-poznaj-alerty-rcb-o-zagrozeniu-atakiem-z-53de6e63",
+   "title": "Plakat: Poznaj alerty RCB o zagrożeniu atakiem z powietrza",
+   "publisher": "MSWiA / PSP (udostępnia KM PSP m.st. Warszawy)",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/attachment/53de6e63-5dae-485a-b151-bc9275df0da4",
+   "format": "pdf",
+   "priority": "high",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2026,
+   "include": false,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 3790779,
+    "sha256": "cb26fa43fe6f6bea1b16b4e5d7864e41f3c94658c7aefb7a3dcabdd86ac8b8e4"
+   },
+   "excluded": "ten sam plik co alerty-rcb-o-zagrozeniu-atakiem-z-powietrza-rodz-15d7fc83"
+  },
+  {
+   "id": "plakat-slyszysz-alarm-zagrozenie-atakiem-z-powie-4277f2ef",
+   "title": "Plakat: Słyszysz alarm? Zagrożenie atakiem z powietrza",
+   "publisher": "MSWiA / PSP (udostępnia KM PSP m.st. Warszawy)",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/attachment/4277f2ef-f892-44ad-a4ba-24461c1bf335",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2026,
+   "include": false,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 4726264,
+    "sha256": "cc511d6b80eedfd517d456b1e4340b3b9c5ed8c038c27af4559612ad5b95a89a"
+   },
+   "excluded": "ten sam plik co slyszysz-alarm-zagrozenie-atakiem-z-powietrza-pl-8259484c"
+  },
+  {
+   "id": "kmpsp-warszawa-ochrona-ludnosci-i-obrona-cywilna",
+   "title": "Ochrona Ludności i Obrona Cywilna - informacje dla mieszkańców",
+   "publisher": "Komenda Miejska PSP m.st. Warszawy",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kmpsp-warszawa/ochrona-ludnosci-i-obrona-cywilna",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 34837,
+    "sha256": "eddb02f3307294a95621644165b9a784debf24c274d5d1992fca67556fb1d8bd"
+   }
+  },
+  {
+   "id": "olioc-decyzja-mswia-ponad-86-tysiecy-punktow-schronienia-w-polsc",
+   "title": "Decyzja MSWiA: ponad 86 tysięcy punktów schronienia w Polsce zostanie oznakowanych",
+   "publisher": "MSWiA (portal OLiOC)",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/olioc/decyzja-mswia-ponad-86-tysiecy-punktow-schronienia-w-polsce-zostanie-oznakowanych",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 26813,
+    "sha256": "70fbee930dc2920a541cda8637ff79b01a16b5233223c5987a198cede68d2c68"
+   }
+  },
+  {
+   "id": "mswia-bezpieczniejsza-codziennosc-nowe-przepisy-o-ochronie-ludno",
+   "title": "Bezpieczniejsza codzienność. Nowe przepisy o ochronie ludności i obronie cywilnej wchodzą w życie.",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/bezpieczniejsza-codziennosc-nowe-przepisy-o-ochronie-ludnosci-i-obronie-cywilnej-wchodza-w-zycie",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 30798,
+    "sha256": "77243ed286a6ed30ad78f717e5aaa057d08245cc822d2520c0e523691b5a8f2d"
+   }
+  },
+  {
+   "id": "olioc-aplikacja-gdzie-sie-ukryc-obejmuje-juz-ponad-83-tys-miejsc",
+   "title": "Aplikacja Gdzie się ukryć obejmuje już ponad 83 tys. miejsc doraźnego schronienia",
+   "publisher": "MSWiA (portal OLiOC)",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/olioc/aplikacja-gdzie-sie-ukryc-obejmuje-juz-ponad-83-tys-miejsc-doraznego-schronienia",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 23056,
+    "sha256": "cfd44b2231344a5217ab13bfdfef9eb2bd00cf99fa6a07c7fa7f918c53aeeb83"
+   }
+  },
+  {
+   "id": "mswia-nowe-narzedzie-pomoze-znalezc-punkty-schronienia",
+   "title": "Nowe narzędzie pomoże znaleźć punkty schronienia",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/nowe-narzedzie-pomoze-znalezc-punkty-schronienia",
+   "format": "html",
+   "priority": "low",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 33425,
+    "sha256": "ce0671a654d1b62845765dd3e170b8c1070e2f3f8f6d920c222143405b3577e9"
+   }
+  },
+  {
+   "id": "gdziesieukryc-gdzie-sie-ukryc-mapa-punktow-schronienia-aplikacja",
+   "title": "Gdzie się ukryć - mapa punktów schronienia (aplikacja PSP)",
+   "publisher": "Państwowa Straż Pożarna (KG PSP)",
+   "group": "Straż pożarna",
+   "url": "https://gdziesieukryc.pl/",
+   "format": "other",
+   "priority": "low",
+   "license": "brak deklaracji licencyjnej",
+   "year": 2025,
+   "include": false,
+   "excluded": "aplikacja z mapą, brak tekstu do zaindeksowania"
+  },
+  {
+   "id": "olioc-mswia-informuje-alerty-i-syreny-na-strazy-twojego-bezpiecz",
+   "title": "MSWiA informuje: alerty i syreny na straży Twojego bezpieczeństwa",
+   "publisher": "MSWiA (portal OLiOC)",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/olioc/mswia-informuje-alerty-i-syreny-na-strazy-twojego-bezpieczenstwa",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 30655,
+    "sha256": "8aec9f7a972cab4fb27d4fbd1083128b15198ebde8f03d85400eb68301d716f0"
+   }
+  },
+  {
+   "id": "olioc-rozporzadzenie-ministra-spraw-wewnetrznych-i-administracji",
+   "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji w sprawie alarmów i komunikatów ostrzegawczych (omówienie)",
+   "publisher": "MSWiA (portal OLiOC)",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/olioc/rozporzadzenie-ministra-spraw-wewnetrznych-i-administracji-w-sprawie-alarmow-i-komunikatow-ostrzegawczych",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 26272,
+    "sha256": "61944583ab7808f6cca059ef4df87699ceabd5ca51a871a85eb869811340ff4c"
+   }
+  },
+  {
+   "id": "rcb-sygnaly-alarmowe3",
+   "title": "Sygnały alarmowe (Rządowe Centrum Bezpieczeństwa)",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/sygnaly-alarmowe3",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": false,
+   "excluded": "treść wyłącznie w grafikach; sygnały są w rozporządzeniu i Poradniku"
+  },
+  {
+   "id": "mswia-alarmowanie-i-ostrzeganie",
+   "title": "Alarmowanie i ostrzeganie (poradnik RSO)",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/alarmowanie-i-ostrzeganie",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 30995,
+    "sha256": "846f853f46986a058c90fef7e97b2d982b9c4ff4660b4fb91fd55d178b37be1f"
+   }
+  },
+  {
+   "id": "mswia-regionalny-system-ostrzegania",
+   "title": "Regionalny System Ostrzegania",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/regionalny-system-ostrzegania",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2019,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 33678,
+    "sha256": "7d25c61eed3df0a27acf00b5114c27c5422ebd65b90478210585d0cf144b3253"
+   }
+  },
+  {
+   "id": "mswia-wazne-informacje",
+   "title": "Ważne informacje (poradnik RSO)",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/wazne-informacje",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 36487,
+    "sha256": "4c2464eb1a1df29c33633373c3f9821f04fac970534869bc2faa36646e767fa0"
+   }
+  },
+  {
+   "id": "mswia-stopnie-alarmowe-i-stopnie-alarmowe-crp",
+   "title": "Stopnie alarmowe i stopnie alarmowe CRP",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/stopnie-alarmowe-i-stopnie-alarmowe-crp",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 28139,
+    "sha256": "fed0007454e3ba6772c626df59ffb900ee46421b53ca4e82ab2c1372928780b0"
+   }
+  },
+  {
+   "id": "mswia-wybrane-przedsiewziecia",
+   "title": "Wybrane przedsięwzięcia wykonywane w stopniach alarmowych",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/wybrane-przedsiewziecia",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 37177,
+    "sha256": "0ce93b602edfc8f30b824b79bb1182bd5c98ef364cc38030811e683d93f797ad"
+   }
+  },
+  {
+   "id": "mswia-system-antyterrorystyczny-rp",
+   "title": "System antyterrorystyczny RP (aktualnie obowiązujące stopnie alarmowe)",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/system-antyterrorystyczny-rp",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": false,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 30784,
+    "sha256": "3d439d245dc0e4eb894a4953590f5783e62561cb454c2b1af92140f58b497314"
+   },
+   "excluded": "bieżący stan stopni alarmowych, szybko się dezaktualizuje"
+  },
+  {
+   "id": "prawo-du-2016-904",
+   "title": "Ustawa z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (tekst ujednolicony)",
+   "publisher": "Sejm RP / Kancelaria Sejmu (ISAP-ELI)",
+   "group": "Akty prawne",
+   "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/904/text/U/D20160904Lj.pdf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "Akt prawny (art. 4 pr. aut.)",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 334111,
+    "sha256": "fb5dbb46a2cf4ba1fe94e26d0cbba891b2ceff5b67c7d7248d91b82c6a34e707"
+   }
+  },
+  {
+   "id": "prawo-du-2022-2065",
+   "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 27 września 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia w sprawie zakresu przedsięwzięć wykonywanych w poszczególnych stopniach alarmowych i stopniach alarmowych CRP",
+   "publisher": "Prezes Rady Ministrów (Dziennik Ustaw)",
+   "group": "Akty prawne",
+   "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/2065/text/O/D20222065.pdf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "Akt prawny (art. 4 pr. aut.)",
+   "year": 2022,
+   "include": false,
+   "excluded": "wykaz przedsięwzięć stopni alarmowych, adresowany do administracji"
+  },
+  {
+   "id": "numer-alarmowy-112-co-zglaszac",
+   "title": "Co zgłaszać? (Numer alarmowy 112)",
+   "publisher": "MSWiA (portal Numer alarmowy 112)",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/numer-alarmowy-112/co-zglaszac",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2019,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 26792,
+    "sha256": "1f85b11ba97936d00d8e33a8e345be2c2b6b2c01a43a0dc19a116c3da796fbf7"
+   }
+  },
+  {
+   "id": "numer-alarmowy-112-jak-zglaszac",
+   "title": "Jak zgłaszać? (Numer alarmowy 112)",
+   "publisher": "MSWiA (portal Numer alarmowy 112)",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/numer-alarmowy-112/jak-zglaszac",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2019,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 24756,
+    "sha256": "15e38e6263b4fdf711beec00f744eadb449c225dbdd8a4db88af9c625a3cc22b"
+   }
+  },
+  {
+   "id": "numer-alarmowy-112-inne-numery-alarmowe",
+   "title": "Inne numery alarmowe (Numer alarmowy 112)",
+   "publisher": "MSWiA (portal Numer alarmowy 112)",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/numer-alarmowy-112/inne-numery-alarmowe",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2019,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 22055,
+    "sha256": "e1e3e5d9d28c4a3e7264caaf99e6b1cb40400cfb250940ee16ce1279f7a935be"
+   }
+  },
+  {
+   "id": "numer-alarmowy-112-wskazowki-i-informacje",
+   "title": "Wskazówki i informacje (Numer alarmowy 112)",
+   "publisher": "MSWiA (portal Numer alarmowy 112)",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/numer-alarmowy-112/wskazowki-i-informacje",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2019,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 26659,
+    "sha256": "1ea53a74e51bf2d5547092ccbf333a3b9ef9d53dff5615f529516a9a17cf4e72"
+   }
+  },
+  {
+   "id": "numer-alarmowy-112-aplikacja-mobilna-alarm1122",
+   "title": "Aplikacja mobilna Alarm112",
+   "publisher": "MSWiA (portal Numer alarmowy 112)",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/numer-alarmowy-112/aplikacja-mobilna-alarm1122",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2020,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 24849,
+    "sha256": "d69cd90f3440f5640ba46829f7f7d0b1d8a9e502371b271512def6c3268d7c7e"
+   }
+  },
+  {
+   "id": "prawo-du-2013-1635",
+   "title": "Ustawa z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (tekst ujednolicony)",
+   "publisher": "Sejm RP / Kancelaria Sejmu (ISAP-ELI)",
+   "group": "Akty prawne",
+   "url": "https://api.sejm.gov.pl/eli/acts/DU/2013/1635/text/U/D20131635Lj.pdf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "Akt prawny (art. 4 pr. aut.)",
+   "year": 2025,
+   "include": false,
+   "excluded": "ustawa organizacyjna (system powiadamiania ratunkowego)"
+  },
+  {
+   "id": "olioc-pytania-i-odpowiedzi",
+   "title": "Pytania i odpowiedzi (Ochrona ludności i obrona cywilna)",
+   "publisher": "MSWiA (portal OLiOC)",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/olioc/pytania-i-odpowiedzi-",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 62391,
+    "sha256": "e5d63bd496c6329532ab5af9b01200c9920f4f4a86a4632082097d77a00fedae"
+   }
+  },
+  {
+   "id": "olioc-zapisz-sie-powszechne-warsztaty-ochrony-ludnosci",
+   "title": "Powszechne Warsztaty Ochrony Ludności",
+   "publisher": "MSWiA (portal OLiOC)",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/olioc/zapisz-sie---powszechne-warsztaty-ochrony-ludnosci",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 27043,
+    "sha256": "00c68c3943efbb3da4c83549fd08a60bb1b719b4395a19142c4485ddc8273088"
+   }
+  },
+  {
+   "id": "ustawa-o-ochronie-ludnosci-i-obronie-cywilnej-pr-9f8b3879",
+   "title": "Ustawa o ochronie ludności i obronie cywilnej - Press kit",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/attachment/9f8b3879-5c82-4e17-b927-8c3fb1b184b1",
+   "format": "pdf",
+   "priority": "low",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 797174,
+    "sha256": "0724a1bffb2bfaef0d41a7096e023a5d719a4e1ab7becc9b1789092359f455be"
+   }
+  },
+  {
+   "id": "obrona-narodowa-wgotowosci-program-powszechnych-szkolen-obronnyc",
+   "title": "wGotowości - program powszechnych szkoleń obronnych",
+   "publisher": "Ministerstwo Obrony Narodowej (ze Sztabem Generalnym WP)",
+   "group": "Inne instytucje",
+   "url": "https://www.gov.pl/web/obrona-narodowa/wgotowosci---program-powszechnych-szkolen-obronnych",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 31747,
+    "sha256": "df0fbde7d98db3b121ede2e58449d1882cfd7abd443a9f7fa637e8e0068ca9d9"
+   }
+  },
+  {
+   "id": "uw-kujawsko-pomorski-gotowi-na-alarm-i-ewakuacje",
+   "title": "Gotowi na alarm i ewakuację (Baza wiedzy kampanii Bezpieczne Kujawsko-Pomorskie)",
+   "publisher": "Kujawsko-Pomorski Urząd Wojewódzki w Bydgoszczy",
+   "group": "Inne instytucje",
+   "url": "https://www.gov.pl/web/uw-kujawsko-pomorski/gotowi-na-alarm-i-ewakuacje",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 33596,
+    "sha256": "5bb892d0ed69f7e792ca7e00a4d693a56668c5a781f618985d4578f2963ba1ed"
+   }
+  },
+  {
+   "id": "uw-zachodniopomorski-schronienia",
+   "title": "Schronienia (Zachodniopomorski Urząd Wojewódzki)",
+   "publisher": "Zachodniopomorski Urząd Wojewódzki w Szczecinie",
+   "group": "Inne instytucje",
+   "url": "https://www.gov.pl/web/uw-zachodniopomorski/schronienia",
+   "format": "html",
+   "priority": "low",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 29388,
+    "sha256": "f6c598ba5ba39f3b7de4d1d926958d6b3671e7294d806de664fabb46db439f09"
+   }
+  },
+  {
+   "id": "jesli-nadejdzie-kryzys-wazne-informacje-dla-mies-42110f7c",
+   "title": "Jeśli nadejdzie kryzys. Ważne informacje dla mieszkańców województwa podlaskiego (broszura)",
+   "publisher": "Podlaski Urząd Wojewódzki w Białymstoku, Wydział Bezpieczeństwa i Zarządzania Kryzysowego",
+   "group": "Inne instytucje",
+   "url": "https://www.gov.pl/attachment/42110f7c-e394-4143-8eee-aa92c2878263",
+   "format": "pdf",
+   "priority": "low",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2019,
+   "include": false,
+   "excluded": "broszura z 2019 r., nieaktualny stan prawny"
+  },
+  {
+   "id": "zpe-ewakuacja-ludnosci-e-material-edukacja-dla-bezpieczenstwa",
+   "title": "Ewakuacja ludności (e-materiał, Edukacja dla bezpieczeństwa)",
+   "publisher": "Ministerstwo Edukacji Narodowej - Zintegrowana Platforma Edukacyjna (zpe.gov.pl)",
+   "group": "Inne instytucje",
+   "url": "https://zpe.gov.pl/a/ewakuacja-ludnosci/D10WeNOmQ",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "year": 2025,
+   "include": false,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 266043,
+    "sha256": "ebe1ec551f8ec7ed4d3400513c20e29a296c09d563f89fac45e952af0cc67bc1"
+   },
+   "excluded": "materiał szkolny oparty na dawnych wytycznych ewakuacji"
+  },
+  {
+   "id": "poradnik-prewencji-terrorystycznej-0383d81d",
+   "title": "Poradnik Prewencji Terrorystycznej",
+   "publisher": "Agencja Bezpieczeństwa Wewnętrznego - Centrum Prewencji Terrorystycznej (udostępnia MSWiA na portalu OLiOC)",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/attachment/0383d81d-09ab-4752-949a-2b3076b65c9b",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2021,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 4390733,
+    "sha256": "b048005f1d78b75ef9835ea54e27c86743795a3adf312a1cb8a9d4e2debaa52d"
+   }
+  },
+  {
+   "id": "prawo-du-2007-590",
+   "title": "Ustawa z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (tekst ujednolicony)",
+   "publisher": "Sejm RP / Kancelaria Sejmu (ISAP-ELI)",
+   "group": "Akty prawne",
+   "url": "https://api.sejm.gov.pl/eli/acts/DU/2007/590/text/U/D20070590Lj.pdf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "Akt prawny (art. 4 pr. aut.)",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 760168,
+    "sha256": "512107737f067f4a1cd356752d8aa2b77e3186410df57b26e31bb376d8f3ed92"
+   }
+  },
+  {
+   "id": "prawo-du-2002-1301",
+   "title": "Ustawa z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej (tekst ujednolicony)",
+   "publisher": "Sejm RP / Kancelaria Sejmu (ISAP-ELI)",
+   "group": "Akty prawne",
+   "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/1301/text/U/D20021301Lj.pdf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "Akt prawny (art. 4 pr. aut.)",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 274115,
+    "sha256": "cd0c9ab36f52deab4f6c66e9a5a07cae04cb5823dcd87ef99e8578e76b65e46f"
+   }
+  },
+  {
+   "id": "prawo-du-2002-558",
+   "title": "Ustawa z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (tekst ujednolicony)",
+   "publisher": "Sejm RP / Kancelaria Sejmu (ISAP-ELI)",
+   "group": "Akty prawne",
+   "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/558/text/U/D20020558Lj.pdf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "Akt prawny (art. 4 pr. aut.)",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 247076,
+    "sha256": "e72cb1ae467f3921144795abb6aa352719b3ce8a70c9ba811ac88891d652b0e0"
+   }
+  },
+  {
+   "id": "prawo-du-2002-985",
+   "title": "Ustawa z dnia 21 czerwca 2002 r. o stanie wyjątkowym (tekst ujednolicony)",
+   "publisher": "Sejm RP / Kancelaria Sejmu (ISAP-ELI)",
+   "group": "Akty prawne",
+   "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/985/text/U/D20020985Lj.pdf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "Akt prawny (art. 4 pr. aut.)",
+   "year": 2017,
+   "include": false,
+   "excluded": "tekst ujednolicony z 2017 r., możliwe nieaktualne brzmienie"
+  },
+  {
+   "id": "poradnik-bezpieczenstwa-przeczytaj-przecwicz-i-z-fa491036",
+   "title": "Poradnik bezpieczeństwa: telefony alarmowe, plan rodzinny, dekalog (PDF, s. 3 i 48–54)",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Poradnik bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/fa491036-8872-457c-95e4-d1292e4a8203",
+   "format": "pdf",
+   "priority": "core",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2025,
+   "include": true,
+   "pages": [
+    3,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54
+   ],
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 1501142,
+    "sha256": "60572931cb18fa50d16a20baf5fc0d64217dd583b6db1c207e82183dbf1a41ae"
+   }
+  },
+  {
+   "id": "coi-poradnik-bezpieczenstwa-pdf-serwowany-pod-domena-poradnikbez",
+   "title": "Poradnik bezpieczeństwa (PDF serwowany pod domeną poradnikbezpieczenstwa.gov.pl, kopia na coi.gov.pl)",
+   "publisher": "MON, MSWiA, RCB (hosting: Centralny Ośrodek Informatyki)",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.coi.gov.pl/static/poradnik_bezpieczenstwa_PL.pdf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "brak deklaracji licencyjnej",
+   "year": 2025,
+   "include": false,
+   "excluded": "duplikat PDF Poradnika bezpieczeństwa"
+  },
+  {
+   "id": "poradnik-bezpieczenstwa-srodek-do-druku-profesjo-e9f694fe",
+   "title": "Poradnik bezpieczeństwa – środek do druku profesjonalnego (rewizja drukowana, plik z 18.09.2025)",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/e9f694fe-6efe-431c-a6c7-2ad5b8a59e99",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2025,
+   "include": false,
+   "excluded": "rewizja drukowana Poradnika, inna paginacja; ta sama treść"
+  },
+  {
+   "id": "poradnik-bezpieczenstwa-pdf-wersja-pozioma-polsk-b0d3db14",
+   "title": "Poradnik bezpieczeństwa (PDF, wersja pozioma polskojęzyczna - rozkładówki)",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/b0d3db14-2b5f-497f-b75e-b3d76244c5e2",
+   "format": "pdf",
+   "priority": "low",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2025,
+   "include": false,
+   "excluded": "duplikat Poradnika w układzie rozkładówek"
+  },
+  {
+   "id": "safety-handbook-read-it-practice-keep-it-wersja-9aa63303",
+   "title": "Safety Handbook. Read it, practice, keep it! (wersja anglojęzyczna Poradnika bezpieczeństwa)",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/9aa63303-0c11-4756-9369-646f5ef4a595",
+   "format": "pdf",
+   "priority": "low",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2025,
+   "include": false,
+   "excluded": "wersja angielska Poradnika"
+  },
+  {
+   "id": "wersja-ukrainskojezyczna-poradnika-bezpieczenstw-e1feb9d5",
+   "title": "Посібник з безпеки (wersja ukraińskojęzyczna Poradnika bezpieczeństwa)",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/e1feb9d5-fccc-42ab-b1f3-2bcbbf03eaa8",
+   "format": "pdf",
+   "priority": "low",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2025,
+   "include": false,
+   "excluded": "wersja ukraińska Poradnika"
+  },
+  {
+   "id": "saugos-vadovas-wersja-litewskojezyczna-poradnika-29cda73b",
+   "title": "Saugos vadovas (wersja litewskojęzyczna Poradnika bezpieczeństwa)",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/29cda73b-19ae-4422-825c-929709443b82",
+   "format": "pdf",
+   "priority": "low",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2025,
+   "include": false,
+   "excluded": "wersja litewska Poradnika"
+  },
+  {
+   "id": "gov-poradnik-bezpieczenstwa-tlumaczenie-na-polski-jezyk-migowy-p",
+   "title": "Poradnik bezpieczeństwa – tłumaczenie na polski język migowy (PJM), filmy do pobrania cz. 1 i 2",
+   "publisher": "MSWiA (pliki w katalogu gov.pl/pliki/mswia)",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/pliki/mswia/Poradnik_bezpieczenstwa_vol1.zip",
+   "format": "other",
+   "priority": "low",
+   "license": "brak deklaracji licencyjnej",
+   "year": 2026,
+   "include": false,
+   "excluded": "filmy w PJM, nie tekst"
+  },
+  {
+   "id": "cyfryzacja-poradnik-bezpieczenstwa-w-mobywatelu-kluczowe-informa",
+   "title": "Poradnik bezpieczeństwa w mObywatelu. Kluczowe informacje zawsze pod ręką w aplikacji",
+   "publisher": "Ministerstwo Cyfryzacji",
+   "group": "Cyberbezpieczeństwo",
+   "url": "https://www.gov.pl/web/cyfryzacja/poradnik-bezpieczenstwa-w-mobywatelu-kluczowe-informacje-zawsze-pod-reka-w-aplikacji",
+   "format": "html",
+   "priority": "low",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": false,
+   "excluded": "komunikat prasowy"
+  },
+  {
+   "id": "slyszysz-alarm-zagrozenie-atakiem-z-powietrza-pl-8259484c",
+   "title": "Słyszysz alarm? Zagrożenie atakiem z powietrza (plakat) oraz Alerty RCB o zagrożeniu atakiem z powietrza - rodzaje (plakat)",
+   "publisher": "MSWiA / RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/8259484c-224a-4950-b824-428b282ace72",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 4726264,
+    "sha256": "cc511d6b80eedfd517d456b1e4340b3b9c5ed8c038c27af4559612ad5b95a89a"
+   }
+  },
+  {
+   "id": "badz-gotowy-poradnik-na-czas-kryzysu-i-wojny-wyd-06a12706",
+   "title": "Bądź gotowy! Poradnik na czas kryzysu i wojny (wydanie I, 2022)",
+   "publisher": "Rządowe Centrum Bezpieczeństwa",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/06a12706-999e-4e3b-96ee-451a56be24f4",
+   "format": "pdf",
+   "priority": "high",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2022,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 2613590,
+    "sha256": "9e86cdda50c816cffb1b095a543e3af52ed543e5a0a145a99adbad06abca6c5d"
+   }
+  },
+  {
+   "id": "get-ready-guide-for-crisis-and-war-angielska-wer-ac2c8078",
+   "title": "GET READY! Guide for crisis and war (angielska wersja Bądź gotowy)",
+   "publisher": "Rządowe Centrum Bezpieczeństwa",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/ac2c8078-d67f-4d07-a10e-15da398df799",
+   "format": "pdf",
+   "priority": "low",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2022,
+   "include": false,
+   "excluded": "wersja angielska „Bądź gotowy”"
+  },
+  {
+   "id": "rcb-poradnik-na-czas-kryzysu-i-wojny2",
+   "title": "Poradnik na czas kryzysu i wojny (strona RCB: plecak ewakuacyjny + materiały)",
+   "publisher": "Rządowe Centrum Bezpieczeństwa",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/poradnik-na-czas-kryzysu-i-wojny2",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 27227,
+    "sha256": "8890c64ecf03b99603af106c3363be0c44ab8e452342af1feb4c604a9c2aca9f"
+   }
+  },
+  {
+   "id": "rcb-poradnik-bezpiecznych-zachowan",
+   "title": "Poradniki bezpiecznych zachowań (hub RCB)",
+   "publisher": "Rządowe Centrum Bezpieczeństwa",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/poradnik-bezpiecznych-zachowan",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": false,
+   "excluded": "strona-lista bez treści"
+  },
+  {
+   "id": "kwpsp-poznan-plecak-ewakuacyjny-bezpieczenstwa",
+   "title": "Plecak ewakuacyjny / bezpieczeństwa (strona z listą kontrolną)",
+   "publisher": "Komenda Wojewódzka Państwowej Straży Pożarnej w Poznaniu",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kwpsp-poznan/plecak-ewakuacyjny--bezpieczenstwa",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 33622,
+    "sha256": "7ecb0a9fb6e200e55d9d1967a4d95a83d4f100404d8a75ff1c3de301b118ef09"
+   }
+  },
+  {
+   "id": "nim-nadejdzie-dzien-poradnik-podstaw-bezpieczens-7f230c0f",
+   "title": "Nim nadejdzie dzień... Poradnik podstaw bezpieczeństwa",
+   "publisher": "Akademia Pożarnicza (uczelnia służb państwowych; publikacja udostępniona na gov.pl przez KM PSP Szczecin)",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/attachment/7f230c0f-6800-42d9-b5c8-2dca7a496a94",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 1442890,
+    "sha256": "540333feb65340dbb4adc3c354e66d8ecd9fa48db4581dd3d422e8d225984360"
+   }
+  },
+  {
+   "id": "rcb-akademia-bezpieczenstwa-rcb2",
+   "title": "Akademia Bezpieczeństwa RCB (cykl poradników wideo)",
+   "publisher": "Rządowe Centrum Bezpieczeństwa we współpracy z Polskim Radiem",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/akademia-bezpieczenstwa-rcb2",
+   "format": "html",
+   "priority": "low",
+   "license": "CC BY-SA 4.0",
+   "year": 2022,
+   "include": false,
+   "excluded": "strona z filmami, bez treści tekstowej"
+  },
+  {
+   "id": "bezpieczne-miejsce-dla-mnie-i-mojej-rodziny-pora-58419efd",
+   "title": "Безпечне місце для мене та моєї родини (Bezpieczne miejsce dla mnie i mojej rodziny – poradnik dla osób opuszczających miejsce zamieszkania ze względu na zagrożenia wojenne)",
+   "publisher": "Rządowe Centrum Bezpieczeństwa",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/58419efd-af0d-478a-8ca4-6e93258b53bf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2022,
+   "include": false,
+   "excluded": "dokument wyłącznie po ukraińsku"
+  },
+  {
+   "id": "kgpsp-pozary",
+   "title": "Pożary",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/pozary",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 31658,
+    "sha256": "1e989df9f0670c8131ec7b6a31946396e54b0e62a19f8d08418f47433b0ab053"
+   }
+  },
+  {
+   "id": "kgpsp-pozary-lasow",
+   "title": "Pożary lasów",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/pozary-lasow",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 36861,
+    "sha256": "4782bb836d021b8b3dfb30590663286cbf83aae0a689b8ca0e74d7043c129e24"
+   }
+  },
+  {
+   "id": "kgpsp-pozary-sadzy",
+   "title": "Pożary sadzy",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/pozary-sadzy",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 31471,
+    "sha256": "913c543b7402cd33a8f3d3c7da16dbc817f546676f16bc2ef520bb35f1759a60"
+   }
+  },
+  {
+   "id": "kgpsp-czujka-na-strazy-twojego-bezpieczenstwa",
+   "title": "Czujka na straży Twojego bezpieczeństwa! (strona kampanii: tlenek węgla, czujki dymu i czadu)",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/czujka-na-strazy-twojego-bezpieczenstwa",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 55968,
+    "sha256": "b0339b03d772b6724d1973859b35a590516b54e89aff9004259ceda1e998c3ec"
+   }
+  },
+  {
+   "id": "poradnik-czujka-na-strazy-twojego-bezpieczenstwa-4c01e1ae",
+   "title": "Poradnik - Czujka na straży Twojego bezpieczeństwa",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/attachment/4c01e1ae-c008-45d5-9782-754f3bf49412",
+   "format": "pdf",
+   "priority": "high",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2026,
+   "include": false,
+   "excluded": "PDF bez warstwy tekstowej (wymaga OCR)"
+  },
+  {
+   "id": "bezpieczni-poradnik-dla-seniorow-i-nie-tylko-461121b3",
+   "title": "Bezpieczni. Poradnik dla seniorów i nie tylko",
+   "publisher": "Komenda Główna PSP (Wydział Prewencji Społecznej)",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/attachment/461121b3-b65c-473e-9165-c48923c541a0",
+   "format": "pdf",
+   "priority": "core",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2022,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 14867559,
+    "sha256": "0107456b60cd000bfedc3ded8cf9a3fe9adce4b8143a8978d1d4911ca380f621"
+   }
+  },
+  {
+   "id": "polak-madry-przed-szkoda-o-pozarach-i-innych-zag-5145820a",
+   "title": "Polak mądry przed szkodą - O pożarach i innych zagrożeniach",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/attachment/5145820a-8470-4696-929b-a76fbcf0d34a",
+   "format": "pdf",
+   "priority": "high",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2013,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 14451279,
+    "sha256": "cc51bfd3aadf1638bd3e2b63e1b3aef7401a5117068b9918550e5555852ecf8b"
+   }
+  },
+  {
+   "id": "twoje-bezpieczenstwo-nie-tylko-w-naszych-rekach-fe2f6999",
+   "title": "Twoje bezpieczeństwo nie tylko w naszych rękach",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/attachment/fe2f6999-cf64-4e35-a600-c969747462bf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2017,
+   "include": false,
+   "excluded": "PDF bez warstwy tekstowej (wymaga OCR)"
+  },
+  {
+   "id": "kgpsp-bezpieczna-ewakuacja",
+   "title": "Bezpieczna ewakuacja",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/bezpieczna-ewakuacja",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 37648,
+    "sha256": "573e8856367e34b27ed2a4bde8e0eeec705a9b2dfe704a3679582ac1c263a7b1"
+   }
+  },
+  {
+   "id": "kgpsp-bezpieczenstwo-w-budynku-mieszkalnym",
+   "title": "Bezpieczeństwo w budynku mieszkalnym",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/bezpieczenstwo-w-budynku-mieszkalnym",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 41433,
+    "sha256": "e3e7fbf59552fdf2762b062d7b4d52f079316dbf56b1bd8a1c45c66996f1e393"
+   }
+  },
+  {
+   "id": "kgpsp-bezpieczne-obchodzenie-sie-z-pradem",
+   "title": "Bezpieczne obchodzenie się z prądem",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/bezpieczne-obchodzenie-sie-z-pradem",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 36799,
+    "sha256": "7e73c732b29f45417da70e91b0da986e1389dfded847b1139d1b61c1dc68edba"
+   }
+  },
+  {
+   "id": "kgpsp-kampania-stop-pozarom-traw",
+   "title": "Kampania Stop Pożarom Traw",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/Kampania-Stop-Pozarom-Traw",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 167272,
+    "sha256": "3e231abff895a13af65f4de7ee56a464317e22b1ac56757c867a6581cd3562b6"
+   }
+  },
+  {
+   "id": "kgpsp-burze-i-silny-wiatr",
+   "title": "Bezpieczeństwo w czasie burz i silnych wiatrów",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/burze-i-silny-wiatr",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 36467,
+    "sha256": "b1635d8f1657372f71db8888b81b7c2fe3e7ab140cc5019bc279a1957d15f55f"
+   }
+  },
+  {
+   "id": "kgpsp-bezpieczenstwo-w-czasie-powodzi",
+   "title": "Bezpieczeństwo w czasie powodzi",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/bezpieczenstwo-w-czasie-powodzi",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 39069,
+    "sha256": "72e4f5d13a6b220a163504c90495cb66a0a5e33f41f09a98f605b9ee65f3a19c"
+   }
+  },
+  {
+   "id": "kgpsp-bezpieczny-wypoczynek-nad-woda",
+   "title": "Bezpieczny wypoczynek nad wodą",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/bezpieczny-wypoczynek-nad-woda",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 46624,
+    "sha256": "9eb06422638cf46dca381273a8345354884e2b9bdb9480e68ecbc04e1bb8c56e"
+   }
+  },
+  {
+   "id": "kgpsp-bezpieczenstwo-na-lodzie",
+   "title": "Bezpieczeństwo na lodzie",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/bezpieczenstwo-na-lodzie",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 36289,
+    "sha256": "dfddb66dbe3c573f97605eff990b0b1777840f8601437c0204570d73ccc7d0ca"
+   }
+  },
+  {
+   "id": "kgpsp-jak-przygotowac-sie-na-upal",
+   "title": "Jak przygotować się na upał?",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/jak-przygotowac-sie-na-upal",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 37451,
+    "sha256": "d18a93fa4b0665e9a8b2a4ed9e0f4c7850aa18b36cb9ccf45cdb13ceea579a9a"
+   }
+  },
+  {
+   "id": "kgpsp-mrozy",
+   "title": "Mrozy",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/mrozy",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2015,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 32796,
+    "sha256": "4afe7db0c49232546a668699484ab9a5ffb54bd73d58036a85f3e3754990f6ef"
+   }
+  },
+  {
+   "id": "kgpsp-snieg-na-dachach",
+   "title": "Śnieg na dachach",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/snieg-na-dachach",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 33083,
+    "sha256": "074637b1f3b5e74c78351d26406ffda522be4ceccc1f982154ebde340594f089"
+   }
+  },
+  {
+   "id": "kgpsp-bezpieczenstwo-dzieci-podczas-ferii",
+   "title": "Bezpieczeństwo dzieci podczas ferii",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/bezpieczenstwo-dzieci-podczas-ferii",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 39178,
+    "sha256": "760640417a04f40948f397cb61e93e744260dad29998cd615c97e164a76cd456"
+   }
+  },
+  {
+   "id": "kgpsp-aed",
+   "title": "AED",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/AED",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 53211,
+    "sha256": "99cee2de5a8abbd09de84a3cb09d74b4ba8e9773fb5ec43899707b6cb6c59ec0"
+   }
+  },
+  {
+   "id": "kgpsp-numer-112",
+   "title": "Europejski numer alarmowy 112",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/numer-112",
+   "format": "html",
+   "priority": "low",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 31896,
+    "sha256": "7b28b2eb834dc17901134524b148892ace093e3a4c5e336d3429cf4cd1b72d48"
+   }
+  },
+  {
+   "id": "kgpsp-korytarz-ratunkowy",
+   "title": "Korytarz życia",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/korytarz-ratunkowy",
+   "format": "html",
+   "priority": "low",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 37599,
+    "sha256": "43f589e5233e50c9b9984c8a00e4926eb48e4b69ecfac804215258219583cf3a"
+   }
+  },
+  {
+   "id": "kgpsp-prewencja-faq",
+   "title": "FAQ (Prewencja) - pytania o przepisy przeciwpożarowe",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/prewencja-faq",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 102063,
+    "sha256": "b717ce973cae0bdfdfa3b77c8a50f577d947287692a445fc1cc19ce6651d3060"
+   }
+  },
+  {
+   "id": "tdt-bezpieczenstwo-butli-na-gaz-lpg-kampania-bezpieczna-butla-be",
+   "title": "Bezpieczeństwo butli na gaz LPG (kampania Bezpieczna Butla – Bezpieczny Dom)",
+   "publisher": "Transportowy Dozór Techniczny (TDT), przy wsparciu Ministerstwa Infrastruktury",
+   "group": "Inne instytucje",
+   "url": "https://www.tdt.gov.pl/informacje/baza-wiedzy/bezpieczenstwo-butli-na-gaz-lpg/",
+   "format": "html",
+   "priority": "high",
+   "license": "brak deklaracji licencyjnej",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 188546,
+    "sha256": "757089b913bd6710b90dedf3e1b6e665d6cfc2e74096f3bb379e8576b206aa3b"
+   }
+  },
+  {
+   "id": "bezpiecznywypoczynek-imgw-bezpieczny-wypoczynek-z-pogodowym-prze",
+   "title": "Bezpieczny wypoczynek z pogodowym przewodnikiem od IMGW-PIB (Kodeks pogodowy; objaśnienie stopni ostrzeżeń)",
+   "publisher": "IMGW-PIB",
+   "group": "Pogoda i powietrze",
+   "url": "https://bezpiecznywypoczynek.imgw.pl/",
+   "format": "html",
+   "priority": "core",
+   "license": "© IMGW-PIB, wszelkie prawa zastrzeżone",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 48345,
+    "sha256": "ee67abab8527e015b7edf16b729d8c6323e94213174b1d461d9d8bb20be5610b"
+   }
+  },
+  {
+   "id": "imgw-pytania-i-odpowiedzi-faq-imgw-pib-prognozy-ostrzezenia-mete",
+   "title": "Pytania i odpowiedzi (FAQ IMGW-PIB: prognozy, ostrzeżenia meteorologiczne i hydrologiczne, komunikaty)",
+   "publisher": "IMGW-PIB",
+   "group": "Pogoda i powietrze",
+   "url": "https://imgw.pl/strona-glowna/pytania-i-odpowiedzi/",
+   "format": "html",
+   "priority": "core",
+   "license": "© IMGW-PIB, wszelkie prawa zastrzeżone",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 169549,
+    "sha256": "3573603aa7f643940e958491bb8eec4659f5bbdc382693459bdc6c3b28ab96d2"
+   }
+  },
+  {
+   "id": "shared-imgw-kryteria-ostrzezen-meteorologicznych-i-hydrologiczny",
+   "title": "Kryteria ostrzeżeń meteorologicznych i hydrologicznych (tabela w oknie 'Kryteria ostrzeżeń' serwisu meteo.imgw.pl)",
+   "publisher": "IMGW-PIB",
+   "group": "Pogoda i powietrze",
+   "url": "https://shared.imgw.pl/web-components/ostrzezenia-meteo-hydro/ostrzezenia-meteo-hydro.js",
+   "format": "other",
+   "priority": "high",
+   "license": "© IMGW-PIB, wszelkie prawa zastrzeżone",
+   "year": 2026,
+   "include": false,
+   "excluded": "kod JS, nie dokument"
+  },
+  {
+   "id": "imgw-dlaczego-ostrzezenie-imgw-pib-obejmuje-caly-powiat-skoro-bu",
+   "title": "Dlaczego ostrzeżenie IMGW-PIB obejmuje cały powiat, skoro burza przechodzi tylko przez kilka miejscowości?",
+   "publisher": "IMGW-PIB",
+   "group": "Pogoda i powietrze",
+   "url": "https://imgw.pl/dlaczego-ostrzezenie-imgw-pib-obejmuje-caly-powiat-skoro-burza-przechodzi-tylko-przez-kilka-miejscowosci/",
+   "format": "html",
+   "priority": "high",
+   "license": "© IMGW-PIB, wszelkie prawa zastrzeżone",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 144888,
+    "sha256": "50f744d77038030fbe43f386f8a0f212a60f025e9b19f9b43e869b00263e076c"
+   }
+  },
+  {
+   "id": "imgw-vadamecum-imgw-burza-jak-sie-zachowac",
+   "title": "Vadamecum IMGW. Burza - jak się zachować",
+   "publisher": "IMGW-PIB",
+   "group": "Pogoda i powietrze",
+   "url": "https://imgw.pl/wp-content/uploads/2024/11/imgw-pib_vademecum_burza_v1_rozkladowki.pdf",
+   "format": "pdf",
+   "priority": "core",
+   "license": "© IMGW-PIB, wszelkie prawa zastrzeżone",
+   "year": 2023,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 4537445,
+    "sha256": "dc5ff7503a972ff721e930d4e2cf4ea6f62723a2eee9a94578eca029f32961a0"
+   }
+  },
+  {
+   "id": "imgw-wysokie-temperatury-upal-vademecum-zachowan",
+   "title": "Wysokie temperatury. Upał. Vademecum zachowań",
+   "publisher": "IMGW-PIB",
+   "group": "Pogoda i powietrze",
+   "url": "https://imgw.pl/wp-content/uploads/2024/11/imgw_upal_vademecum.pdf",
+   "format": "pdf",
+   "priority": "high",
+   "license": "© IMGW-PIB, wszelkie prawa zastrzeżone",
+   "year": 2020,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 3763932,
+    "sha256": "d3678876c7be15b16e0d1b506b69b901ca2caaa840d9188b6858ef591b7506d2"
+   }
+  },
+  {
+   "id": "imgw-niska-temperatura-powietrza-mrozy-vademecum-zachowan",
+   "title": "Niska temperatura powietrza. Mrozy. Vademecum zachowań",
+   "publisher": "IMGW-PIB",
+   "group": "Pogoda i powietrze",
+   "url": "https://imgw.pl/wp-content/uploads/2024/11/vadamecum-biometeo-na-zime-od-imgw-pib_0.pdf",
+   "format": "pdf",
+   "priority": "high",
+   "license": "© IMGW-PIB, wszelkie prawa zastrzeżone",
+   "year": 2020,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 13466922,
+    "sha256": "d984f3e092080013d190f6c0f3edbc1d96ac343a726b23edab65ff7041c5c23a"
+   }
+  },
+  {
+   "id": "imgw-dekalog-wakacyjny-imgw-pib-vademecum",
+   "title": "Dekalog wakacyjny IMGW-PIB (vademecum)",
+   "publisher": "IMGW-PIB",
+   "group": "Pogoda i powietrze",
+   "url": "https://imgw.pl/wp-content/uploads/2024/11/imgw-pib-dekalog-wakacyjny-vademecum-07-2024-v1.pdf",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "© IMGW-PIB, wszelkie prawa zastrzeżone",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 352544,
+    "sha256": "5ee2e6546f7c07643edd6e441d078fe292516822a39492ce7f33c00d219d3b4b"
+   }
+  },
+  {
+   "id": "imgw-slowniki-hydrologiczno-meteorologiczne-slownik-dla-mediow-m",
+   "title": "Słowniki hydrologiczno-meteorologiczne (Słownik dla mediów: meteorologia, modelowanie, hydrologia)",
+   "publisher": "IMGW-PIB",
+   "group": "Pogoda i powietrze",
+   "url": "https://imgw.pl/edukacja/slowniki-hydrologiczno-meteorologiczne/",
+   "format": "html",
+   "priority": "medium",
+   "license": "© IMGW-PIB, wszelkie prawa zastrzeżone",
+   "year": 2023,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 262809,
+    "sha256": "4a6827b58e25dd3b5daf08d7204dbaaa17d28a24c8094e6dd7ca2a75d280b42c"
+   }
+  },
+  {
+   "id": "rodzinny-plan-powodziowy-4ee90d97",
+   "title": "Rodzinny Plan Powodziowy",
+   "publisher": "Krajowy Zarząd Gospodarki Wodnej / PGW Wody Polskie (opracowano w oparciu o doświadczenia IMGW-PIB Oddział w Krakowie)",
+   "group": "Pogoda i powietrze",
+   "url": "https://www.gov.pl/attachment/4ee90d97-1983-4d6d-b927-c75ea9b67cdb",
+   "format": "pdf",
+   "priority": "core",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2013,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 226758,
+    "sha256": "d3bc2e835980835f0747d1c16e6b98cb4e63310c02d644ef4f8b45bdbd34fde7"
+   }
+  },
+  {
+   "id": "zagrozenia-w-trakcie-powodzi-zimowych-900cb6f8",
+   "title": "Zagrożenia w trakcie powodzi zimowych",
+   "publisher": "PGW Wody Polskie (edukacja wodna)",
+   "group": "Powódź i wody",
+   "url": "https://www.gov.pl/attachment/900cb6f8-ee4d-404d-b14b-854a8933eff1",
+   "format": "pdf",
+   "priority": "high",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2023,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 1443858,
+    "sha256": "5b8cc879829e5f966e6c26e9aed63fd18fbec17fd492d14173495a4884cdd8b2"
+   }
+  },
+  {
+   "id": "powodz-6-mitow-b2fc0b74",
+   "title": "Powódź! 6 mitów",
+   "publisher": "PGW Wody Polskie, RZGW we Wrocławiu",
+   "group": "Powódź i wody",
+   "url": "https://www.gov.pl/attachment/b2fc0b74-3c58-4cbc-aa5f-6f8e57ac32e3",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2022,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 1084469,
+    "sha256": "f7ff40336e68d567253d4ae730c1ffa4fd13c524a61bf7a68226a3139d4f5f5e"
+   }
+  },
+  {
+   "id": "powodz-mapy-zagrozenia-powodziowego-i-mapy-ryzyka-powodziowego-o",
+   "title": "Mapy zagrożenia powodziowego i mapy ryzyka powodziowego (O mapach)",
+   "publisher": "PGW Wody Polskie / KZGW (portal powodz.gov.pl)",
+   "group": "Powódź i wody",
+   "url": "https://www.powodz.gov.pl/pl/o_mapach",
+   "format": "html",
+   "priority": "high",
+   "license": "brak deklaracji licencyjnej",
+   "year": 2018,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 43888,
+    "sha256": "12231fcfad71d57ee03c23e0d1b3e48050109908b347fef906ad0ec45ab87fe8"
+   }
+  },
+  {
+   "id": "prawo-i-woda-zachowanie-nad-woda-zgodnie-z-prawe-e0083f21",
+   "title": "Prawo i Woda (Zachowanie nad wodą zgodnie z prawem)",
+   "publisher": "PGW Wody Polskie",
+   "group": "Powódź i wody",
+   "url": "https://www.gov.pl/attachment/e0083f21-dd3a-495c-87b7-0e818d7a5ade",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2023,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 1265547,
+    "sha256": "6d348e0f836c63f254ab39b80bd8ac5a40cb675e99ff12f2902c8a71342bdb78"
+   }
+  },
+  {
+   "id": "powietrze-gios-informacje-zdrowotne-indeks-jakosci-powietrza",
+   "title": "Informacje zdrowotne - Indeks Jakości Powietrza",
+   "publisher": "Główny Inspektorat Ochrony Środowiska (GIOŚ)",
+   "group": "Pogoda i powietrze",
+   "url": "https://powietrze.gios.gov.pl/pjp/content/health_informations",
+   "format": "html",
+   "priority": "high",
+   "license": "GIOŚ, wykorzystanie za podaniem źródła",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 50976,
+    "sha256": "589d787676e8065b2c20131ecb555aa41be16017cc82505bf39c630f624f7189"
+   }
+  },
+  {
+   "id": "powietrze-gios-informacje-o-wysokich-stezeniach-zanieczyszczen-w",
+   "title": "Informacje o wysokich stężeniach zanieczyszczeń w powietrzu (poziom informowania i poziom alarmowy PM10)",
+   "publisher": "Główny Inspektorat Ochrony Środowiska (GIOŚ)",
+   "group": "Pogoda i powietrze",
+   "url": "https://powietrze.gios.gov.pl/pjp/content/alarm_levels",
+   "format": "html",
+   "priority": "high",
+   "license": "GIOŚ, wykorzystanie za podaniem źródła",
+   "year": 2021,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 49179,
+    "sha256": "1ed5566f5557ab7c4fe2712d31b49dcd1a5e76f634f4b95e0f940ab069bb78e7"
+   }
+  },
+  {
+   "id": "mswia-poradniki",
+   "title": "Poradniki (Regionalny System Ostrzegania) - Burze i nawałnice, Wichury, Powódź, Upały, Zima, Bezpieczny wypoczynek, Pożar, Zatrucie czadem, Bezpieczne fajerwerki",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/poradniki",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": false,
+   "excluded": "strona-lista bez treści"
+  },
+  {
+   "id": "powodz-poradnik-na-wypadek-powodzi-wydanie-ii-ecbf8957",
+   "title": "Powódź. Poradnik na wypadek powodzi (wydanie II)",
+   "publisher": "Rządowe Centrum Bezpieczeństwa (RCB)",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/ecbf8957-a00d-4af8-81af-34f79f9dd954",
+   "format": "pdf",
+   "priority": "core",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 2126261,
+    "sha256": "e30bb1e88c4f9126f14a4f286c5437740c609c1e3727550eb13c475ac6dde7c4"
+   }
+  },
+  {
+   "id": "moja-wiedza-na-temat-zagrozen-czyli-jak-straz-po-aa44555f",
+   "title": "Moja wiedza na temat zagrożeń. Czyli jak Straż Pożarna pomaga w czasie niebezpiecznej pogody (tekst łatwy do czytania)",
+   "publisher": "PSONI (Polskie Stowarzyszenie na rzecz Osób z Niepełnosprawnością Intelektualną); konsultacja merytoryczna KG PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/attachment/aa44555f-49ea-4359-8311-cd136967544d",
+   "format": "pdf",
+   "priority": "low",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2020,
+   "include": false,
+   "excluded": "utwór osoby trzeciej (PSONI)"
+  },
+  {
+   "id": "poradnik-bezpieczenstwa-wersja-polskojezyczna-20-1882b0e4",
+   "title": "Poradnik bezpieczeństwa (wersja polskojęzyczna, 2025) - kopia hostowana przez RCB",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/1882b0e4-728a-4324-b5f8-b11ff4ba55a5",
+   "format": "pdf",
+   "priority": "core",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2025,
+   "include": false,
+   "excluded": "duplikat PDF Poradnika (kopia RCB)"
+  },
+  {
+   "id": "instrukcja-reagowania-zagrozenie-atakiem-z-powie-76b3fc53",
+   "title": "Instrukcja reagowania - zagrożenie atakiem z powietrza",
+   "publisher": "MSWiA (published by RCB)",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/76b3fc53-3054-4096-8c04-d541f9fa5044",
+   "format": "pdf",
+   "priority": "core",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2026,
+   "include": false,
+   "excluded": "duplikat Instrukcji reagowania (kopia RCB)"
+  },
+  {
+   "id": "alerty-rcb-o-zagrozeniu-atakiem-z-powietrza-rodz-15d7fc83",
+   "title": "Alerty RCB o zagrożeniu atakiem z powietrza - rodzaje (infografika PAR)",
+   "publisher": "MSWiA / RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/15d7fc83-c12b-4837-b790-040d3afc4b26",
+   "format": "pdf",
+   "priority": "high",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2026,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 3790779,
+    "sha256": "cb26fa43fe6f6bea1b16b4e5d7864e41f3c94658c7aefb7a3dcabdd86ac8b8e4"
+   }
+  },
+  {
+   "id": "badz-gotowy-poradnik-na-czas-kryzysu-i-wojny-wyd-0d3deb41",
+   "title": "Bądź gotowy! Poradnik na czas kryzysu i wojny (wydanie I, 2022)",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/0d3deb41-aa91-4697-867a-45bf2f5710e4",
+   "format": "pdf",
+   "priority": "high",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2022,
+   "include": false,
+   "excluded": "duplikat „Bądź gotowy” (kopia RCB)"
+  },
+  {
+   "id": "rcb-zagrozenia-chemiczne",
+   "title": "Zagrożenia chemiczne",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/zagrozenia-chemiczne",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 106921,
+    "sha256": "dfb31c4dafb5277e20658103fd5220962747b50aa373a925fde3fcc9b5b989de"
+   }
+  },
+  {
+   "id": "rcb-zagrozenia-biologiczne",
+   "title": "Zagrożenia biologiczne",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/zagrozenia-biologiczne",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 75793,
+    "sha256": "c34378599095f58dc1ea5d716207cca78ab84c2c75a8de3a00d2352d109ae244"
+   }
+  },
+  {
+   "id": "rcb-zagrozenia-radiacyjne",
+   "title": "Zagrożenia radiacyjne",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/zagrozenia-radiacyjne",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 94080,
+    "sha256": "9851906bd9e48cc9fc1285fc8a0cd1088f8a649884c8a72de81a3f5decb42476"
+   }
+  },
+  {
+   "id": "rcb-zagrozenie-jadrowe",
+   "title": "Zagrożenie jądrowe",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/zagrozenie-jadrowe",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 88124,
+    "sha256": "9cf3f5b71267e57fa8b2094523f06af427c93ebb3ee7fc816e4dc0dab8965623"
+   }
+  },
+  {
+   "id": "rcb-zagrozenie-eksplozja",
+   "title": "Zagrożenie eksplozją",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/zagrozenie-eksplozja",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 86901,
+    "sha256": "15c87b849ef8ada941ab752c68bf6428c503e883b7c9c79058a7e1f7a3748a31"
+   }
+  },
+  {
+   "id": "rcb-jak-postepowac-podczas-powodzi2",
+   "title": "Jak postępować podczas powodzi?",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/jak-postepowac-podczas-powodzi2",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 26137,
+    "sha256": "379518d4e0a0c29fc922c2ee44c08089f1e0e590dc386836e8e21862b706b150"
+   }
+  },
+  {
+   "id": "pozar-poradnik-na-wypadek-pozaru-wydanie-i-2024-a6e27d8f",
+   "title": "Pożar. Poradnik na wypadek pożaru (wydanie I, 2024)",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/a6e27d8f-0b23-4606-937b-caea932dfcf1",
+   "format": "pdf",
+   "priority": "core",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 9683496,
+    "sha256": "f8ecdacff33542440da726e0ee825bf50bc462f90d98d9484b9ef0af000bf8e0"
+   }
+  },
+  {
+   "id": "wichura-poradnik-na-wypadek-wichury-wydanie-i-20-d91c4fd8",
+   "title": "Wichura. Poradnik na wypadek wichury (wydanie I, 2024)",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/d91c4fd8-bf1f-4d5c-b4ca-3915a84106f6",
+   "format": "pdf",
+   "priority": "high",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 1513681,
+    "sha256": "e1a95bbe1bfa4005ea5fbd974db5620e87903edd47d540a5d9a219e5cf3fb30f"
+   }
+  },
+  {
+   "id": "rcb-wichura-jak-sie-przygotowac",
+   "title": "Wichura – jak się przygotować",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/wichura--jak-sie-przygotowac",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 26209,
+    "sha256": "20df0523ccb1e4646cb3d975aa538367d2508a047688b3df121371ca11d88a01"
+   }
+  },
+  {
+   "id": "rcb-burza-badz-bezpieczny",
+   "title": "Burza – bądź bezpieczny",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/burza--badz-bezpieczny",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 29297,
+    "sha256": "b6e1247cf8f5f03ae770fc347cf4ae12874ec1f4102a623c239548e154c772f7"
+   }
+  },
+  {
+   "id": "burza-jak-sie-zachowac-poradnik-2020-cb425fb0",
+   "title": "Burza – jak się zachować (poradnik, 2020)",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/cb425fb0-9d95-40ad-87e3-bb7b5f4f9ed4",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2020,
+   "include": false,
+   "excluded": "uszkodzona warstwa tekstowa PDF (brak ó ś ć ń ź)"
+  },
+  {
+   "id": "rcb-jak-przetrwac-upal2",
+   "title": "Jak przetrwać upał?",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/jak-przetrwac-upal2",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 26506,
+    "sha256": "ad2ead1944aecb39475733325555eaa6c855097ebe085aa04dae875af72e6bd3"
+   }
+  },
+  {
+   "id": "upal-jak-sie-zachowac-poradnik-2020-1da6281d",
+   "title": "Upał – jak się zachować (poradnik, 2020)",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/1da6281d-f3ea-4886-a357-43a0f4c9dac6",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2020,
+   "include": false,
+   "excluded": "uszkodzona warstwa tekstowa PDF (brak ó ś ć ń ź)"
+  },
+  {
+   "id": "rcb-badz-bezpieczny-podczas-upalow",
+   "title": "Bądź bezpieczny podczas upałów",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/badz-bezpieczny-podczas-upalow",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 26509,
+    "sha256": "c436fbc5ca78491d397e807b30d7b118f7ef8e544acd180e687c12a13abfd770"
+   }
+  },
+  {
+   "id": "rcb-nie-dla-czadu2",
+   "title": "Nie dla czadu",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/nie-dla-czadu2",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2025,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 27697,
+    "sha256": "5c39e2702c9190e27af5bd1955839101788e5812967f43674e27d5bff40ba756"
+   }
+  },
+  {
+   "id": "czad-nie-dla-czadu-poradnik-2020-c8fc1f32",
+   "title": "Czad – nie dla czadu! (poradnik, 2020)",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/c8fc1f32-ac4e-4efd-9643-b6f715b726c2",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2020,
+   "include": false,
+   "excluded": "uszkodzona warstwa tekstowa PDF (brak ó ś ć ń ź)"
+  },
+  {
+   "id": "rcb-bezpieczna-zima2",
+   "title": "Bezpieczna zima",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/bezpieczna-zima2",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 34504,
+    "sha256": "c25ba39f8e6680a5e4befbefa85307cc0914c0fc5c99759d7755627404d5d865"
+   }
+  },
+  {
+   "id": "zima-poradnik-2024-046fd7d4",
+   "title": "Zima – poradnik (2024)",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/046fd7d4-2518-4d86-8950-f1e1eee2e370",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2024,
+   "include": false,
+   "excluded": "PDF obrazkowy (wymaga OCR)"
+  },
+  {
+   "id": "rcb-zagrozenia-zima-reaguj-gdy-ktos-potrzebuje-pomocy",
+   "title": "Zagrożenia zimą – reaguj, gdy ktoś potrzebuje pomocy",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/zagrozenia-zima--reaguj-gdy-ktos-potrzebuje-pomocy",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2023,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 28749,
+    "sha256": "95b0d418a8a0d373a4cd8b2ee6f2c29e784371473997f67710fa251e1728505b"
+   }
+  },
+  {
+   "id": "akademia-bezpieczenstwa-rcb-odcinek-1-nie-dac-si-acb30ca1",
+   "title": "Akademia Bezpieczeństwa RCB, odcinek 1 – Nie dać się zimie (transkrypcja filmu)",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/acb30ca1-fe1b-4409-828a-0bcc5367af0e",
+   "format": "pdf",
+   "priority": "low",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2022,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 147527,
+    "sha256": "87962bd8024ff0d0eb3c9eac744c694916b3bfc0df389cee362502b0e09b1917"
+   }
+  },
+  {
+   "id": "bezpieczne-wakacje-poradnik-podczas-wypoczynku-w-cffd26b8",
+   "title": "Bezpieczne wakacje. Poradnik podczas wypoczynku (wydanie I, 2024)",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/cffd26b8-7752-45cb-8879-806e31442320",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 49794198,
+    "sha256": "d28fbd8fa90475f2282257f80ba58f692a35b9e53555da169117dc2a7b19726f"
+   }
+  },
+  {
+   "id": "rcb-badz-bezpieczny-nad-woda2",
+   "title": "Bądź bezpieczny nad wodą",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/badz-bezpieczny-nad-woda2",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 24958,
+    "sha256": "e41b205ee14ec254910838a3bff0099af5a4fa6f1caa40fa2ba5d5a49d032ab3"
+   }
+  },
+  {
+   "id": "na-drodze-poradnik-dla-kierowcow-rowerzystow-i-p-761ae4fc",
+   "title": "Na drodze. Poradnik dla kierowców, rowerzystów i pieszych (wydanie I, 2024)",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/761ae4fc-2e16-4703-8e93-80031cb2351d",
+   "format": "pdf",
+   "priority": "low",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 96233814,
+    "sha256": "6439a9dbedd79dddcae64a489018178774b14c055ca1c4f4ecd6cd15e198fd06"
+   }
+  },
+  {
+   "id": "rcb-alert-rcb-najwazniejsze-pytania-i-odpowiedzi",
+   "title": "Alert RCB – Najważniejsze Pytania i Odpowiedzi",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/alert-rcb---najwazniejsze-pytania-i-odpowiedzi",
+   "format": "html",
+   "priority": "core",
+   "license": "CC BY-SA 4.0",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 31719,
+    "sha256": "50d23e2e9bb5e1a6fa77e11c8ccc4e318c2957753dd39b8778630041c89509e4"
+   }
+  },
+  {
+   "id": "rcb-komunikat-sms-y-podszywajace-sie-pod-alert-rcb",
+   "title": "Komunikat – SMS-y podszywające się pod ALERT RCB",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/komunikat---sms-y-podszywajace-sie-pod-alert-rcb",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "year": 2024,
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 23759,
+    "sha256": "cdee02f8a098b297a7d1558259962f4ee095f0557c894d9d2b1082b370fc9817"
+   }
+  },
+  {
+   "id": "dziennikustaw-rozporzadzenie-ministra-spraw-wewnetrznych-i-admin",
+   "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 maja 2025 r. w sprawie alarmów i komunikatów ostrzegawczych (Dz.U. 2025 poz. 645)",
+   "publisher": "MSWiA / Dziennik Ustaw (RCL)",
+   "group": "Akty prawne",
+   "url": "https://dziennikustaw.gov.pl/D2025000064501.pdf",
+   "format": "pdf",
+   "priority": "low",
+   "license": "Akt prawny (art. 4 pr. aut.)",
+   "year": 2025,
+   "include": false,
+   "excluded": "duplikat rozporządzenia (jest z api.sejm.gov.pl)"
+  },
+  {
+   "id": "rcb-centra-zarzadzania-kryzysowego",
+   "title": "Centra Zarządzania Kryzysowego (mapa kontaktów)",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/centra-zarzadzania-kryzysowego",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": false,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 323121,
+    "sha256": "19532af5cbdb132c8e2743e07735eeac7f80da8455f38d89a55bea7a8e8e989b"
+   },
+   "excluded": "strona bez własnej treści (lista odnośników albo mapa)"
+  },
+  {
+   "id": "rcb-alert-rcb-kryteria-uruchomienia-ostrzegania-dla-silnego-wiat",
+   "title": "Alert RCB: kryteria uruchomienia ostrzegania dla silnego wiatru",
+   "publisher": "RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/alert-rcb-kryteria-uruchomienia-ostrzegania-dla-silnego-wiatru",
+   "format": "html",
+   "priority": "low",
+   "license": "CC BY-SA 4.0",
+   "year": 2021,
+   "include": false,
+   "excluded": "kryteria z 2021 r., mogły się zmienić"
+  },
+  {
+   "id": "rcb-materialy-edukacyjne",
+   "title": "Materiały edukacyjne – Alert RCB (scenariusze zajęć ORE)",
+   "publisher": "RCB, Ośrodek Rozwoju Edukacji",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/materialy-edukacyjne",
+   "format": "html",
+   "priority": "low",
+   "license": "CC BY-SA 4.0",
+   "year": 2024,
+   "include": false,
+   "excluded": "scenariusze lekcji dla nauczycieli"
+  },
+  {
+   "id": "safety-handbook-english-edition-of-poradnik-bezp-2724a825",
+   "title": "Safety Handbook (English edition of Poradnik bezpieczeństwa, 2025)",
+   "publisher": "MON, MSWiA, RCB",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/attachment/2724a825-f4b9-4196-b9cd-dd3e88e92d4d",
+   "format": "pdf",
+   "priority": "low",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "year": 2025,
+   "include": false,
+   "excluded": "wersja angielska Poradnika"
+  },
+  {
+   "id": "rcb-bezpieczny-urlop2",
+   "title": "Bezpieczny urlop",
+   "publisher": "Rządowe Centrum Bezpieczeństwa",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/bezpieczny-urlop2",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": false,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 24320,
+    "sha256": "586cc0648e8d278117ac7354d2c1d348bd935ca135c7e257903cc51d432b13a4"
+   },
+   "excluded": "strona bez własnej treści (lista odnośników albo mapa)"
+  },
+  {
+   "id": "rcb-pozar-badz-bezpieczny6",
+   "title": "Pożar – bądź bezpieczny",
+   "publisher": "Rządowe Centrum Bezpieczeństwa",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/pozar--badz-bezpieczny6",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 25603,
+    "sha256": "46f05070f1098206f970dc258d4b964517a6aac1bae3971d0eacf2c8aaa78b30"
+   }
+  },
+  {
+   "id": "rcb-bezpieczenstwo-na-drodze2",
+   "title": "Bezpieczeństwo na drodze",
+   "publisher": "Rządowe Centrum Bezpieczeństwa",
+   "group": "Rządowe Centrum Bezpieczeństwa",
+   "url": "https://www.gov.pl/web/rcb/bezpieczenstwo-na-drodze2",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 25938,
+    "sha256": "af02e045b23454986fa30fefd7962e3a6b55deba49975d388a979498c8b3fcb0"
+   }
+  },
+  {
+   "id": "mswia-burze-i-nawalnice",
+   "title": "Burze i nawałnice",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/burze-i-nawalnice",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 28557,
+    "sha256": "3646134312a9a0a2a49721d09f2d733aea2cdaa8d808e387ae428ded84334720"
+   }
+  },
+  {
+   "id": "mswia-wichury",
+   "title": "Wichury",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/wichury",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 27857,
+    "sha256": "85e87c3a50cf634e7aacda1bd5e89ab80374a4f9211ad11066f7cb92055941c0"
+   }
+  },
+  {
+   "id": "mswia-powodz",
+   "title": "Powódź",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/powodz",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 35365,
+    "sha256": "b199373ad36d3a03da6c1fa1087920fb2e4ae78649189d592bfa1ebcb6685eba"
+   }
+  },
+  {
+   "id": "mswia-upaly",
+   "title": "Upały",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/upaly",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 28311,
+    "sha256": "1c278036c039627dc5ddf4b7ce15d6bcafa38f75ffa5a0a511d7335353994233"
+   }
+  },
+  {
+   "id": "mswia-zima",
+   "title": "Zima",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/zima",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 32019,
+    "sha256": "dbac8755719c5eca9c27bee83058468a4280509d636a4eb3f5eaaf01a9366019"
+   }
+  },
+  {
+   "id": "mswia-bezpieczny-wypoczynek",
+   "title": "Bezpieczny wypoczynek",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/bezpieczny-wypoczynek",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 32506,
+    "sha256": "83bc72486989dccbc84c6c131c8a887d01da13a090718f44e39ad161e875535a"
+   }
+  },
+  {
+   "id": "mswia-pozar",
+   "title": "Pożar",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/pozar",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 32701,
+    "sha256": "f3966cc918799e8bf2351c34dd012ac6e109dedb4e1b9c43d56ec71aef4e863e"
+   }
+  },
+  {
+   "id": "mswia-zatrucie-czadem",
+   "title": "Zatrucie czadem",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/zatrucie-czadem",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 28131,
+    "sha256": "da40dfaa100c597658048568f4e130ea22dd31d139fe22e051a08e7059522354"
+   }
+  },
+  {
+   "id": "mswia-bezpieczne-fajerwerki",
+   "title": "Bezpieczne fajerwerki",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/bezpieczne-fajerwerki",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 27863,
+    "sha256": "ccfc4a708a4a3b2e2d0fdb819d91591b5282955fbc36b37667e35ff92908e71b"
+   }
+  },
+  {
+   "id": "mswia-pierwsza-pomoc",
+   "title": "Pierwsza pomoc",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/pierwsza-pomoc",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 32796,
+    "sha256": "c12b14942c2f0cf9e6754c2df000850649570d528ca92310368e4e469153d9af"
+   }
+  },
+  {
+   "id": "mswia-skazenie-substancja-toksyczna",
+   "title": "Skażenie substancją toksyczną",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/skazenie-substancja-toksyczna",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 31033,
+    "sha256": "7d65dffb831db3543725e6d0332453a93d6fcb30436ee20a0ec3e90d03a5ac55"
+   }
+  },
+  {
+   "id": "mswia-niebezpieczna-przesylka",
+   "title": "Niebezpieczna przesyłka",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/niebezpieczna-przesylka",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 29560,
+    "sha256": "4fb97d5cca9e02c3a6f8bb4b219424aada7222454c0be298c91417ebb39d0fad"
+   }
+  },
+  {
+   "id": "mswia-zatrucie-substancjami-psychoaktywnymi",
+   "title": "Zatrucie substancjami psychoaktywnymi",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/zatrucie-substancjami-psychoaktywnymi",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 36439,
+    "sha256": "eee039fdf43212abeacb4bfb7d2ebcb567552c8c9feb449a9681f59487b7d454"
+   }
+  },
+  {
+   "id": "paa-reagowanie-w-zdarzeniach-radiacyjnych",
+   "title": "Reagowanie w zdarzeniach radiacyjnych",
+   "publisher": "Państwowa Agencja Atomistyki",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/paa/reagowanie-w-zdarzeniach-radiacyjnych",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 33149,
+    "sha256": "a63d6728cbba34c8306f2436563ba37210bf9e0b4cf37c60cf6ed3a4b1ad454e"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "paa-procedura-powiadamiania-ludnosci-na-wypadek-zdarzenia-radiac",
+   "title": "Procedura powiadamiania ludności na wypadek zdarzenia radiacyjnego i podstawowe zasady ochrony radiologicznej",
+   "publisher": "Państwowa Agencja Atomistyki",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/paa/procedura-powiadamiania-ludnosci-na-wypadek-zdarzenia-radiacyjnego-i-podstawowe-zasady-ochrony-radiologicznej",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 161867,
+    "sha256": "f80f2cf9d06fd935ff487780d48178d472d6c989676c30570a7dd16f98c7ad6c"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "paa-pytania-i-odpowiedzi",
+   "title": "Pytania i odpowiedzi",
+   "publisher": "Państwowa Agencja Atomistyki",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/paa/pytania-i-odpowiedzi",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 41517,
+    "sha256": "cb15af36d3a78c4e886b35bfd5f77d49360964995b8d751c13352814f286b703"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "paa-komunikat-paa-w-sprawie-preparatow-ze-stabilnym-jodem",
+   "title": "Komunikat PAA w sprawie preparatów ze stabilnym jodem",
+   "publisher": "Państwowa Agencja Atomistyki",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/paa/komunikat-paa-w-sprawie-preparatow-ze-stabilnym-jodem",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 32806,
+    "sha256": "ecb58a7b032a9d0e32c4588bea35baa78848711c00e2e02451db02abdaa26b17"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "gis-przerwa-w-dostawie-pradu-pamietaj-o-bezpieczenstwie-zywnosci",
+   "title": "Przerwa w dostawie prądu? Pamiętaj o bezpieczeństwie żywności",
+   "publisher": "Główny Inspektorat Sanitarny",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/gis/przerwa-w-dostawie-pradu-pamietaj-o-bezpieczenstwie-zywnosci",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 24766,
+    "sha256": "4ad8860cf7dbec178b69ceed0aa0aace97f59d3bb7c5cf3faa071642d9b9a74e"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "gis-bezpieczenstwo-zywnosci-podczas-powodzi",
+   "title": "Bezpieczeństwo żywności podczas powodzi",
+   "publisher": "Główny Inspektorat Sanitarny",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/gis/bezpieczenstwo-zywnosci-podczas-powodzi",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 25944,
+    "sha256": "18a089a3d6daf6794efc56d32e572bdf12a5aeae977373bf97614cc643e01b59"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "gis-informacja-dla-powodzian-o-wodzie-przeznaczonej-do-spozycia",
+   "title": "Informacja dla powodzian o wodzie przeznaczonej do spożycia",
+   "publisher": "Główny Inspektorat Sanitarny",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/gis/informacja-dla-powodzian-o-wodzie-przeznaczonej-do-spozycia",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 32717,
+    "sha256": "62b50a0faac65900ca6ad3a681cde48c0db2521565cdabb7bb1460a988a8119a"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "gis-informacja-dla-powodzian-dot-wody-i-budynkow",
+   "title": "Informacja dla powodzian dot. wody przeznaczonej do spożycia i postępowania w przypadku zalania budynków",
+   "publisher": "Główny Inspektorat Sanitarny",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/gis/informacja-dla-powodzian-dot-wody-i-budynkow",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": false,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 23958,
+    "sha256": "0ad8e0742adabd4105954c9c36037150117196e7738a8ba05f94ada20c4d4f5e"
+   },
+   "excluded": "strona bez własnej treści (lista odnośników albo mapa)",
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "zdrowie-pierwsza-pomoc",
+   "title": "Pierwsza pomoc",
+   "publisher": "Ministerstwo Zdrowia",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/zdrowie/pierwsza-pomoc",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 27898,
+    "sha256": "ed88ba3125eb60a1ee8d7f796fa890548b1b10f3d946945c7598ba7757afb463"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "zdrowie-sposob-postepowania-na-miejscu-zdarzenia",
+   "title": "Sposób postępowania na miejscu zdarzenia",
+   "publisher": "Ministerstwo Zdrowia",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/zdrowie/sposob-postepowania-na-miejscu-zdarzenia",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 36307,
+    "sha256": "7c00d16c652d4e7eedcd853f9b0a5d86f697e59a0a6538ce2c7c5b486a0732ba"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "zdrowie-sposob-udzielania-pierwszej-pomocy-w-wybranych-naglych-w",
+   "title": "Sposób udzielania pierwszej pomocy w wybranych nagłych wypadkach",
+   "publisher": "Ministerstwo Zdrowia",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/zdrowie/sposob-udzielania-pierwszej-pomocy-w-wybranych-naglych-wypadkach",
+   "format": "html",
+   "priority": "high",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 34576,
+    "sha256": "cf598ad4e7692d1a682c2c1bfdf6557e3f582ae8e71c1c25e823406970a8e65c"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pacjent-co-robic-w-sytuacji-naglego-zagrozenia",
+   "title": "Co robić w sytuacji nagłego zagrożenia życia lub zdrowia?",
+   "publisher": "pacjent.gov.pl (Ministerstwo Zdrowia, NFZ)",
+   "group": "Zdrowie i skażenia",
+   "url": "https://pacjent.gov.pl/co-robic-w-sytuacji-naglego-zagrozenia",
+   "format": "html",
+   "priority": "high",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 71536,
+    "sha256": "7221f78932f23196dd60c98d65e23cb57b66f0e2cf9a54fa2db9ed29eb2029b2"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pacjent-pogotowie-i-numer-alarmowy",
+   "title": "Pogotowie i numer alarmowy",
+   "publisher": "pacjent.gov.pl (Ministerstwo Zdrowia, NFZ)",
+   "group": "Zdrowie i skażenia",
+   "url": "https://pacjent.gov.pl/pogotowie-i-numer-alarmowy",
+   "format": "html",
+   "priority": "high",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 74274,
+    "sha256": "bb003e598abe50668283bce7b6b5739caad9efadee00cb44135069ea2691728e"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pacjent-zawsze-udzielaj-pierwszej-pomocy-zasady",
+   "title": "Zawsze udzielaj pierwszej pomocy – zasady",
+   "publisher": "pacjent.gov.pl (Ministerstwo Zdrowia, NFZ)",
+   "group": "Zdrowie i skażenia",
+   "url": "https://pacjent.gov.pl/aktualnosc/zawsze-udzielaj-pierwszej-pomocy-zasady",
+   "format": "html",
+   "priority": "high",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 84107,
+    "sha256": "dcd6d623008c9a936edae84f8c91006d1db02d54332ede3da296e3860ff0650a"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pacjent-na-ratunek",
+   "title": "Na ratunek",
+   "publisher": "pacjent.gov.pl (Ministerstwo Zdrowia, NFZ)",
+   "group": "Zdrowie i skażenia",
+   "url": "https://pacjent.gov.pl/na-ratunek",
+   "format": "html",
+   "priority": "high",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 96834,
+    "sha256": "6c650ffc4d4e22b41b6d87188d95f485ab6e7e2eb659301a799ad1df951fc5db"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "paa-komunikat-prezesa-panstwowej-agencji-atomistyki-w-zwiazku-z",
+   "title": "Komunikat Prezesa Państwowej Agencji Atomistyki w związku z pytaniami o przyjmowanie preparatów z stabilnym jodem",
+   "publisher": "Państwowa Agencja Atomistyki",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/paa/komunikat-prezesa-panstwowej-agencji-atomistyki-w-zwiazku-z-pytaniami-o-przyjmowanie-preparatow-z-stabilnym-jodem",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": false,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 29043,
+    "sha256": "1b874388a2094c70247cc935c3165992b2af59637c858b825702c086706c5fd5"
+   },
+   "excluded": "strona bez własnej treści (lista odnośników albo mapa)",
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "paa-zglaszanie-zdarzen-radiacyjnych",
+   "title": "Zgłaszanie zdarzeń radiacyjnych",
+   "publisher": "Państwowa Agencja Atomistyki",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/paa/zglaszanie-zdarzen-radiacyjnych",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 28096,
+    "sha256": "0fb047fe7c74b382e67ef4415a9a4a37e94bba784964ee54a64f5a992df95744"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "mswia-komunikat-mswia-na-temat-dystrybucji-jodku-potasu",
+   "title": "Komunikat MSWiA na temat dystrybucji jodku potasu",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/mswia/komunikat-mswia-na-temat-dystrybucji-jodku-potasu",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 26688,
+    "sha256": "02cb17f57d2fa80c800c0a0fba5815eb9e6ec8823c07b83ff2736c70148ede11"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "kgpsp-komunikat-w-sprawie-zagrozen-radiacyjnych",
+   "title": "Komunikat w związku z doniesieniami dotyczącymi zagrożeń radiacyjnych na Ukrainie",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/komunikat-w-sprawie-zagrozen-radiacyjnych",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 26697,
+    "sha256": "6d5d585e0fe3174a8b008ba574361b204cc3972618544911829b0395cfeb69f0"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "kgpsp-bezpieczenstwo-podczas-upalow",
+   "title": "Bezpieczeństwo podczas upałów",
+   "publisher": "Komenda Główna PSP",
+   "group": "Straż pożarna",
+   "url": "https://www.gov.pl/web/kgpsp/bezpieczenstwo-podczas-upalow",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 32233,
+    "sha256": "9d0f1b8a2e79fa3e1eb8d7798f920b3dbc8e5795bbb1d623f685c12a67abe53f"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "gis-woda-uzytkowa-i-kranowka2",
+   "title": "Woda użytkowa i kranówka",
+   "publisher": "Główny Inspektorat Sanitarny",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/gis/woda-uzytkowa-i-kranowka2",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": false,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 22311,
+    "sha256": "012dc48555f95a9b4e30a8fcfff018ea98ef5403e3d59b424fb9eebbf741ece2"
+   },
+   "excluded": "strona bez własnej treści (lista odnośników albo mapa)",
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "gis-zasady-postepowania-w-przypadku-zalania-budynkow-uzytecznosc",
+   "title": "Zasady postępowania w przypadku zalania budynków użyteczności publicznej i mieszkalnych ściekami bytowymi",
+   "publisher": "Główny Inspektorat Sanitarny",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/gis/zasady-postepowania-w-przypadku-zalania-budynkow-uzytecznosci-publicznej-i-mieszkalnych-sciekami-bytowymi",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 33241,
+    "sha256": "6f0e59572da618290fe0bbf33d4e754d4248408376429367f80840b92d2ff36e"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "gis-intensywne-opady-deszczu-dbajmy-o-zdrowie-i-bezpieczenstwo",
+   "title": "Intensywne opady deszczu - dbajmy o zdrowie i bezpieczeństwo",
+   "publisher": "Główny Inspektorat Sanitarny",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/gis/intensywne-opady-deszczu--dbajmy-o-zdrowie-i-bezpieczenstwo",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 24734,
+    "sha256": "c0d24384248bb33303b5e7478b9ed85685ae68b9c5a230196dbfaecd8775e75b"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "gis-upaly-a-zdrowie-jak-przetrwac-fale-goraca",
+   "title": "Upały a zdrowie - jak przetrwać fale gorąca",
+   "publisher": "Główny Inspektorat Sanitarny",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/gis/upaly-a-zdrowie--jak-przetrwac-fale-goraca",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 26707,
+    "sha256": "23b35997c15de4dcc9518682bc4d7a9b0e1f684fbb925bdde40231d2ecd2c3ad"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "gis-pierwsza-pomoc3",
+   "title": "gov.pl Urzędy centralne",
+   "publisher": "Główny Inspektorat Sanitarny",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/gis/pierwsza-pomoc3",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": false,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 26906,
+    "sha256": "904fe5ac95c70275164e8da6c5386da15fed53181d5635a9522484596a7d84c1"
+   },
+   "excluded": "strona bez własnej treści (lista odnośników albo mapa)",
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "gis-tezec",
+   "title": "TĘŻEC",
+   "publisher": "Główny Inspektorat Sanitarny",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/gis/tezec",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 25095,
+    "sha256": "6a70713490d39bd931f27f89d76e6bebf64100fb877f5df80bb281fd5293f720"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "gis-waglik",
+   "title": "WĄGLIK",
+   "publisher": "Główny Inspektorat Sanitarny",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/gis/waglik",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 23844,
+    "sha256": "e38f662af52dd004533c2e9fe0444ad12e2927e0aacf945563750507cf8a947e"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "gis-postepowanie-w-ostrych-zatruciach-fosforowodorem",
+   "title": "Postępowanie w ostrych zatruciach fosforowodorem",
+   "publisher": "Główny Inspektorat Sanitarny",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/gis/postepowanie-w-ostrych-zatruciach-fosforowodorem",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 24865,
+    "sha256": "3056443b2cba975b77a2ec4f85bf37604a309b3d1aafa11a3cec9aaa1ce244b4"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "gis-wspolne-stanowisko-na-temat-immunoprofilaktyki-chorob-zakazn",
+   "title": "Wspólne stanowisko na temat immunoprofilaktyki chorób zakaźnych na terenach dotkniętych powodzią w Polsce (wg stanu sanitarnego na 22.09.2024 r.)",
+   "publisher": "Główny Inspektorat Sanitarny",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/gis/wspolne-stanowisko-na-temat-immunoprofilaktyki-chorob-zakaznych-na-terenach-dotknietych-powodzia-w-polsce-wg-stanu-sanitarnego-na-22092024-r",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 30465,
+    "sha256": "dc4c80aa1483ed1c9a404c09a46f9964c43e4eb2bf6804e8f3d6a2f67687520d"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "zdrowie-gdzie-uzyskac-pomoc-psychologiczna-i-psychiatryczna",
+   "title": "Gdzie uzyskać pomoc psychologiczną i psychiatryczną?",
+   "publisher": "Ministerstwo Zdrowia",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/zdrowie/gdzie-uzyskac-pomoc-psychologiczna-i-psychiatryczna",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 32556,
+    "sha256": "7d0b664967f12cda5a402bf38c3ea8d276f8fd3cb83443529326e06cb7b5db85"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "zdrowie-pomoc-psychologiczna",
+   "title": "Pomoc psychologiczna",
+   "publisher": "Ministerstwo Zdrowia",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/zdrowie/pomoc-psychologiczna",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 27877,
+    "sha256": "7ddaccb4e7fae1b81144e07e77dbf6277647b1363e04d1ab44c058f7a3cb6290"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "zdrowie-pytania-i-odpowiedzi-wsparcie-psychologiczne",
+   "title": "Pytania i odpowiedzi",
+   "publisher": "Ministerstwo Zdrowia",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/zdrowie/pytania-i-odpowiedzi-wsparcie-psychologiczne",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 38090,
+    "sha256": "bbd34593ab933ac632039c874e2ca397ad2fbfef18435ce211a139861b6b447a"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "zdrowie-psychologiczna-pierwsza-pomoc-przewodnik-dla-pracownikow",
+   "title": "Psychologiczna Pierwsza Pomoc: Przewodnik dla pracowników w terenie",
+   "publisher": "Ministerstwo Zdrowia",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/zdrowie/psychologiczna-pierwsza-pomoc-przewodnik-dla-pracownikow-w-terenie",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 26016,
+    "sha256": "8efb2ef39654bb72df20a553af6a5631b212f2a9e12e5be52604d69638f0d569"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "zdrowie-nadchodzi-upal-dowiedz-sie-jak-sie-zachowac",
+   "title": "Nadchodzi upał. Dowiedz się, jak się zachować",
+   "publisher": "Ministerstwo Zdrowia",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/zdrowie/nadchodzi-upal-dowiedz-sie-jak-sie-zachowac",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 32974,
+    "sha256": "69b1078c45d601ce47f6c158f649d78671926aad1d059a0333ddc496c4e0a65f"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "zdrowie-powodz-ochrona-zdrowia",
+   "title": "Powódź - ochrona zdrowia",
+   "publisher": "Ministerstwo Zdrowia",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/zdrowie/powodz-ochrona-zdrowia",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": false,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 27186,
+    "sha256": "7c3999cd413348467e1ab0abb0ab5747f2e09e0ace78f0ace852cf9f39faad59"
+   },
+   "excluded": "strona bez własnej treści (lista odnośników albo mapa)",
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "zdrowie-stosowanie-produktow-biobojczych-przy-usuwaniu-skutkow-p",
+   "title": "Stosowanie produktów biobójczych przy usuwaniu skutków powodzi",
+   "publisher": "Ministerstwo Zdrowia",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/zdrowie/stosowanie-produktow-biobojczych-przy-usuwaniu-skutkow-powodzi",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 27233,
+    "sha256": "93832982cd09464ad344ecd430784a929a6097c53ca688c4e75193c06d81bc8a"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "rpp-natychmiastowa-pomoc-psychiatryczna-to-twoje-prawo",
+   "title": "Natychmiastowa pomoc psychiatryczna to Twoje prawo",
+   "publisher": "Rzecznik Praw Pacjenta",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/rpp/natychmiastowa-pomoc-psychiatryczna-to-twoje-prawo",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 27139,
+    "sha256": "76f1d34bd60f94ca6df7deb5d9332b227f337455ecc7c1e6c3c58493396590d2"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "rpp-telefoniczna-informacja-pacjenta",
+   "title": "Telefoniczna Informacja Pacjenta",
+   "publisher": "Rzecznik Praw Pacjenta",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/rpp/telefoniczna-informacja-pacjenta",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 26778,
+    "sha256": "8750076cd484a0c06b44402563c84238925722970ee63203d3b642e72674b5bb"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "rpp-wazne-informacje-dla-powodzian",
+   "title": "Ważne informacje dla powodzian",
+   "publisher": "Rzecznik Praw Pacjenta",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/rpp/wazne-informacje-dla-powodzian",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 31270,
+    "sha256": "d58a36969aefe3c7dc97fccbaad1c03112a044f39683df537aa6f65240877aae"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "rars-najczesciej-zadawane-pytania",
+   "title": "Najczęściej zadawane pytania",
+   "publisher": "Rządowa Agencja Rezerw Strategicznych",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/rars/najczesciej-zadawane-pytania",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 85584,
+    "sha256": "d509730acc7ee3eaa60fea855ea82b2f3072161dbddc579ae41963666ad74765"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "numer-alarmowy-112-telefon-zaufania-dla-dzieci-i-mlodziezy",
+   "title": "116 111 - Telefon zaufania dla Dzieci i Młodzieży",
+   "publisher": "MSWiA",
+   "group": "MSWiA: ochrona ludności i numer 112",
+   "url": "https://www.gov.pl/web/numer-alarmowy-112/telefon-zaufania-dla-dzieci-i-mlodziezy",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 27142,
+    "sha256": "9a055fea55200c9e0d6ebd42a44f0e3d34dbbdc48c553212ae070f32f7d73eff"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "edukacja-jak-rozmawiac-z-dziecmi-o-wojnie-specjalne-szkolenie-in",
+   "title": "„Jak rozmawiać z dziećmi o wojnie” – specjalne szkolenie internetowe dla rodziców, opiekunów i nauczycieli",
+   "publisher": "Ministerstwo Edukacji Narodowej",
+   "group": "Inne instytucje",
+   "url": "https://www.gov.pl/web/edukacja/jak-rozmawiac-z-dziecmi-o-wojnie--specjalne-szkolenie-internetowe-dla-rodzicow-opiekunow-i-nauczycieli",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 29104,
+    "sha256": "3af81e259ba15c9f5ef804cc5b63924e0f62bd64f7ac5fbf64a82eded12b061f"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "nauka-jak-rozmawiac-z-dziecmi-i-uczniami-na-temat-sytuacji-w-ukr",
+   "title": "Jak rozmawiać z dziećmi i uczniami na temat sytuacji w Ukrainie – rekomendacje dla nauczycieli i pedagogów szkolnych",
+   "publisher": "Ministerstwo Nauki i Szkolnictwa Wyższego",
+   "group": "Inne instytucje",
+   "url": "https://www.gov.pl/web/nauka/jak-rozmawiac-z-dziecmi-i-uczniami-na-temat-sytuacji-w-ukrainie--rekomendacje-dla-nauczycieli-i-pedagogow-szkolnych",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 32118,
+    "sha256": "6783e813803f44fb706395a4f7f744faafcc2f18a08c39eddfd92a3ab4f31fa9"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "psse-milicz-bezpieczenstwo-zwierzat-towarzyszacych-na-terenach-d",
+   "title": "Bezpieczeństwo zwierząt towarzyszących na terenach dotkniętych powodzią",
+   "publisher": "Państwowa Inspekcja Sanitarna",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/psse-milicz/bezpieczenstwo-zwierzat-towarzyszacych-na-terenach-dotknietych-powodzia",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": false,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 21831,
+    "sha256": "aea35b0dd1ac20c10930341ee746593c6f1b8caa35060aac53e07b7e92821366"
+   },
+   "excluded": "strona bez własnej treści (lista odnośników albo mapa)",
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "psse-mogilno-co-z-ta-woda",
+   "title": "Co z tą wodą ?",
+   "publisher": "Państwowa Inspekcja Sanitarna",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/web/psse-mogilno/co-z-ta-woda-",
+   "format": "html",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 27529,
+    "sha256": "a779872f3c4bf5a22e6634b8bb0fdd89fbc6111e2242eef719d6e1fb186fd6b4"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pacjent-co-robic-w-przypadku-zatrucia",
+   "title": "Co robić w przypadku zatrucia?",
+   "publisher": "pacjent.gov.pl (Ministerstwo Zdrowia, NFZ)",
+   "group": "Zdrowie i skażenia",
+   "url": "https://pacjent.gov.pl/aktualnosc/co-robic-w-przypadku-zatrucia",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 84382,
+    "sha256": "3723a8c5d9ec122a936ee0252023018a1f01dd871475fc7d32b5e161f992c9b7"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pacjent-oparzenia-i-przegrzanie-organizmu",
+   "title": "Oparzenia i przegrzanie organizmu",
+   "publisher": "pacjent.gov.pl (Ministerstwo Zdrowia, NFZ)",
+   "group": "Zdrowie i skażenia",
+   "url": "https://pacjent.gov.pl/aktualnosc/oparzenia-i-przegrzanie-organizmu",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 78760,
+    "sha256": "c12952492a6a9b1e1d8cdfe5f204f891e8987644d19ada8921d05e594cb283fd"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pacjent-pamietaj-o-apteczce",
+   "title": "Pamiętaj o apteczce",
+   "publisher": "pacjent.gov.pl (Ministerstwo Zdrowia, NFZ)",
+   "group": "Zdrowie i skażenia",
+   "url": "https://pacjent.gov.pl/aktualnosc/pamietaj-o-apteczce",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 76740,
+    "sha256": "8f9a848da3366d0702717bf0a53506cdc23bbde8e282ac1e8b246ba6692af118"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pacjent-nim-przyjedzie-pogotowie",
+   "title": "Nim przyjedzie pogotowie",
+   "publisher": "pacjent.gov.pl (Ministerstwo Zdrowia, NFZ)",
+   "group": "Zdrowie i skażenia",
+   "url": "https://pacjent.gov.pl/archiwum/2022/nim-przyjedzie-pogotowie",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 82939,
+    "sha256": "083c2b23a2da74fc8978f12a79b8819b1056fb0f6ba00e1c801af614cc538840"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pacjent-nocna-i-swiateczna-opieka-zdrowotna",
+   "title": "Nocna i świąteczna opieka zdrowotna",
+   "publisher": "pacjent.gov.pl (Ministerstwo Zdrowia, NFZ)",
+   "group": "Zdrowie i skażenia",
+   "url": "https://pacjent.gov.pl/nocna-i-swiateczna-opieka-zdrowotna",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 75771,
+    "sha256": "95630858a3b5be3cd9bf98ca054ec1d475da830c29441a3f25fec5ab79434804"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pacjent-szpitalny-oddzial-ratunkowy-sor",
+   "title": "Szpitalny Oddział Ratunkowy (SOR)",
+   "publisher": "pacjent.gov.pl (Ministerstwo Zdrowia, NFZ)",
+   "group": "Zdrowie i skażenia",
+   "url": "https://pacjent.gov.pl/szpitalny-oddzial-ratunkowy-sor",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 85700,
+    "sha256": "db65ef5b17b58c8fd7dd6bac1e2745c3e0609a44af883734d78725d2ab7fd2ba"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pacjent-szczypie-w-nosy-szczypie-w-uszy-jak-sie-chronic-przed-mr",
+   "title": "Szczypie w nosy, szczypie w uszy – jak się chronić przed mrozem",
+   "publisher": "pacjent.gov.pl (Ministerstwo Zdrowia, NFZ)",
+   "group": "Zdrowie i skażenia",
+   "url": "https://pacjent.gov.pl/szczypie-w-nosy-szczypie-w-uszy-jak-sie-chronic-przed-mrozem",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 82667,
+    "sha256": "86fde49cd29faf25bd643f41740374f0995ca8e855aa7b063225c1e9f73bf0db"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pacjent-niespodziewany-udar",
+   "title": "Niespodziewany udar",
+   "publisher": "pacjent.gov.pl (Ministerstwo Zdrowia, NFZ)",
+   "group": "Zdrowie i skażenia",
+   "url": "https://pacjent.gov.pl/zapobiegaj/niespodziewany-udar",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 81166,
+    "sha256": "d8797b496ead70a0d6072074bff34dab62c556a97d87bea9c8e52746553cff05"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pacjent-pierwsze-objawy-kryzysu-psychicznego",
+   "title": "Pierwsze objawy kryzysu psychicznego u dzieci i młodzieży",
+   "publisher": "pacjent.gov.pl (Ministerstwo Zdrowia, NFZ)",
+   "group": "Zdrowie i skażenia",
+   "url": "https://pacjent.gov.pl/zapobiegaj/pierwsze-objawy-kryzysu-psychicznego",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 74893,
+    "sha256": "6858972742bcb4ddbfebdc3531d6743e67b7e29128f49e400aa48283b70da9ae"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pacjent-specjalistyczna-pomoc-w-problemach-psychicznych",
+   "title": "Specjalistyczna pomoc w problemach psychicznych",
+   "publisher": "pacjent.gov.pl (Ministerstwo Zdrowia, NFZ)",
+   "group": "Zdrowie i skażenia",
+   "url": "https://pacjent.gov.pl/aktualnosc/specjalistyczna-pomoc-w-problemach-psychicznych",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 71552,
+    "sha256": "e703f3dc8069c9413a39e8beca1abb9d0de661ee4577fa945cfb385c12b2c8d3"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pzh-informacja-dla-powodzian-o-wodzie-przeznaczonej-do-spozycia",
+   "title": "INFORMACJA DLA POWODZIAN o wodzie przeznaczonej do spożycia. Oczyszczanie i odkażanie studni i pomp – NIZP PZH - PIB",
+   "publisher": "NIZP PZH – Państwowy Instytut Badawczy",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.pzh.gov.pl/informacja-dla-powodzian-o-wodzie-przeznaczonej-do-spozycia/",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 284031,
+    "sha256": "783e55be5f48fab37f830f41a116cabfa3c4eb5af65e562ac54787c5a609a844"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pzh-postepowanie-sanitarne-z-pomieszczeniami-i-przedmiotami-uzyt",
+   "title": "Postępowanie sanitarne z pomieszczeniami i przedmiotami użytku po powodzi – NIZP PZH - PIB",
+   "publisher": "NIZP PZH – Państwowy Instytut Badawczy",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.pzh.gov.pl/postepowanie-sanitarne-z-pomieszczeniami-i-przedmiotami-uzytku-po-powodzi/",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 281527,
+    "sha256": "f256ad0fb26d95547b717a398baaeec2b30bdb1b4bedb35eb4d1906ddba63a8b"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pzh-szczepienia-zalecane-na-terenach-dotknietych-powodzia",
+   "title": "Szczepienia zalecane na terenach dotkniętych powodzią – NIZP PZH - PIB",
+   "publisher": "NIZP PZH – Państwowy Instytut Badawczy",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.pzh.gov.pl/szczepienia-zalecane-na-terenach-dotknietych-powodzia/",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 279325,
+    "sha256": "b0ab8bcc3c4081e024ee5962cdd731db7256357a0dc964001b945b0c0bcfcb91"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "pzh-zagrozenia-epidemiologiczne-podczas-powodzi-o-czym-powinnism",
+   "title": "Zagrożenia epidemiologiczne podczas powodzi. O czym powinniśmy pamiętać, by uniknąć zachorowań? – NIZP PZH - PIB",
+   "publisher": "NIZP PZH – Państwowy Instytut Badawczy",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.pzh.gov.pl/zagrozenia-epidemiologiczne-podczas-powodzi-o-czym-powinnismy-pamietac-by-uniknac-zachorowan/",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 279513,
+    "sha256": "e0a76fe5744a241e4eafd6a03fd1adc01669741f1db3180042a60ebc5a33b1a1"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "wetgiw-idn-2954",
+   "title": "Komunikat Głównego Lekarza Weterynarii dotyczący „Poradnika bezpieczeństwa”",
+   "publisher": "Główny Inspektorat Weterynarii",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.wetgiw.gov.pl/main/komunikaty/Komunikat-Glownego-Lekarza-Weterynarii-dotyczacy-Poradnika-bezpieczenstwa-/idn:2954",
+   "format": "html",
+   "priority": "medium",
+   "license": "brak deklaracji licencyjnej",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 35090,
+    "sha256": "4c53c114133b4526a6badce9d45e7e1d5758fdcef5a68a17215c0284a6bc7417"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "zalacznik-39db4a4b",
+   "title": "Wskazówki dotyczące bezpieczeństwa żywności podczas przerwy w dostawie prądu (infografika)",
+   "publisher": "Główny Inspektorat Sanitarny, EFSA",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/attachment/39db4a4b-e8fd-4875-939c-d5a6b6bf0afe",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 2068404,
+    "sha256": "ad813b1bb8c28243fe530385e8ad980d4790bb9b8e863682fe35af11c4372499"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "zalacznik-4ea3a4f7",
+   "title": "Dobre praktyki postępowania zespołów ratownictwa medycznego w razie zdarzenia radiacyjnego",
+   "publisher": "",
+   "group": "Inne instytucje",
+   "url": "https://www.gov.pl/attachment/4ea3a4f7-d9e5-45d2-8fa3-cc9d4aabb02c",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "include": false,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 483896,
+    "sha256": "04b60c9ac29a3315174878dcb5d1f6496c74f199b7f33b1d3771447b0bb100a2"
+   },
+   "excluded": "adresowane do zespołów ratownictwa medycznego, nie do mieszkańców",
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "zalacznik-8ebdcb04",
+   "title": "Wskazania dla opiekunów zwierząt domowych na terenach dotkniętych powodzią",
+   "publisher": "opublikowane w serwisie gov.pl",
+   "group": "Zdrowie i skażenia",
+   "url": "https://www.gov.pl/attachment/8ebdcb04-f563-4717-85db-00c3eb75390b",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "include": true,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 329253,
+    "sha256": "2129e9ff864632e92f3cb3557d0073c88d17a65ca73d46a9c3d06235c4e72437"
+   },
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "zalacznik-d1dcec72",
+   "title": "Załącznik graficzny (JPEG)",
+   "publisher": "",
+   "group": "Inne instytucje",
+   "url": "https://www.gov.pl/attachment/d1dcec72-e16e-4756-abb3-45758f649769",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "include": false,
+   "excluded": "grafika JPEG, nie dokument",
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  },
+  {
+   "id": "zalacznik-d66394aa",
+   "title": "Bezpieczni. Poradnik dla seniorów i nie tylko (druga kopia pliku)",
+   "publisher": "",
+   "group": "Inne instytucje",
+   "url": "https://www.gov.pl/attachment/d66394aa-4346-418e-8e6c-d76f1078df20",
+   "format": "pdf",
+   "priority": "medium",
+   "license": "CC BY-SA 4.0 (wg stopki gov.pl, brak noty w pliku)",
+   "include": false,
+   "fetched": {
+    "date": "2026-10-04",
+    "bytes": 14867559,
+    "sha256": "0107456b60cd000bfedc3ded8cf9a3fe9adce4b8143a8978d1d4911ca380f621"
+   },
+   "excluded": "ten sam plik co „Bezpieczni. Poradnik dla seniorów”",
+   "note": "dodane z listy stron otwartych przez przerwanego agenta (zdrowie/CBRN), bez przeglądu treści"
+  }
+ ]
+}

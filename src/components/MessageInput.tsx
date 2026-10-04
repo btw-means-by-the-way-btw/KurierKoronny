@@ -9,13 +9,20 @@ import { IconButton } from './ui/IconButton';
 interface Props {
   onSend: (text: string) => Promise<boolean>;
   disabled?: boolean;
+  placeholder?: string; // default 'Wiadomość'
+  accessibilityLabel?: string; // of the text field; default 'Treść wiadomości'
 }
 
 /**
  * Chat composer bar (DESIGN.md → Message input): a filled pill field that grows with the text and
  * a round send button. Near the length limit a counter appears; past it sending is blocked.
  */
-export function MessageInput({ onSend, disabled }: Props) {
+export function MessageInput({
+  onSend,
+  disabled,
+  placeholder = 'Wiadomość',
+  accessibilityLabel = 'Treść wiadomości',
+}: Props) {
   const { colors } = useAppTheme();
   const [text, setText] = useState('');
   const [busy, setBusy] = useState(false);
@@ -38,12 +45,12 @@ export function MessageInput({ onSend, disabled }: Props) {
         <TextInput
           value={text}
           onChangeText={setText}
-          placeholder="Wiadomość"
+          placeholder={placeholder}
           placeholderTextColor={colors.onSurfaceVariant}
           style={[styles.input, { color: colors.onSurface }]}
           multiline
           maxLength={MAX_MESSAGE_LENGTH + 50}
-          accessibilityLabel="Treść wiadomości"
+          accessibilityLabel={accessibilityLabel}
         />
         {remaining < 60 && (
           <View style={styles.counter}>

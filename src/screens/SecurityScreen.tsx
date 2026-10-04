@@ -34,6 +34,7 @@ const LIMITS = [
   'Metadane są jawne: przekaźniki widzą, kto do kogo pisze, kiedy i jak długą wiadomość – ale nie jej treść.',
   'Brak utajniania wstecznego (forward secrecy): kto nagra szyfrogramy z eteru, a później zdobędzie klucz z Twojego telefonu, odczyta dawne rozmowy.',
   'Komunikaty urzędowe są publiczne: podpisane, ale nieszyfrowane.',
+  'Pytania do Kuriera idą przez internet do zewnętrznego dostawcy modelu językowego i nie są szyfrowane end-to-end – dostawca widzi ich treść. Rozmów to nie dotyczy: czaty nie wychodzą poza sieć mesh.',
   'Certyfikatu urzędowego nie da się unieważnić bez aktualizacji aplikacji. W czasie awarii przestaje działać dopiero, gdy wygaśnie – dlatego certyfikaty są krótkie.',
   'Złośliwy telefon w sieci może gubić lub opóźniać cudze pakiety. Nie może ich odczytać, zmienić ani podrobić.',
   'Nick każdy wybiera sam. Pewność, z kim piszesz, daje tylko zweryfikowany klucz albo oznaczenie „Konto urzędowe”.',

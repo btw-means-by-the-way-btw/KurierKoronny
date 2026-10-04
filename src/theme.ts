@@ -8,7 +8,7 @@ export const spacing = { xs: 4, sm: 8, md: 12, lg: 16, xl: 24, gutter: 16 } as c
 /** Fixed sizes of controls and chrome (dp). */
 export const size = { touch: 44, control: 48, row: 64, tile: 40, avatar: 48, header: 56, chatHeader: 64 } as const;
 /** Durations (ms). Timing only – no springs. */
-export const motion = { pressIn: 80, pressOut: 140, segment: 160, sheet: 220 } as const;
+export const motion = { pressIn: 80, pressOut: 140, segment: 160, sheet: 220, pulse: 800 } as const;
 
 // With a named font family Android collapses every weight below 700 to normal, so the family is
 // left out and the weight alone picks the face.
